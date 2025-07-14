@@ -1,0 +1,1001 @@
+Order ID,Customer ID,Order Date,Product,Category,Unit Price,Quantity,Total Sales,Region,Payment Method,Return Status
+033b8330,CUST9270,2025-01-10,Tablet,Electronics,299.02,3,897.06,North,Debit Card,Not Returned
+e34cc80c,CUST8878,2024-11-24,Jeans,Clothing,142.46,2,284.92,West,Net Banking,Not Returned
+f381f579,CUST6051,2024-08-07,Vacuum Cleaner,Home & Kitchen,311.52,3,934.56,East,COD,Not Returned
+39ccbbaa,CUST8522,2024-09-17,T-Shirt,Clothing,179.19,4,716.76,East,COD,Not Returned
+1c77d1ce,CUST4842,2025-01-12,Remote Car,Toys,474.19,5,2370.95,South,Net Banking,Not Returned
+3b3d69b6,CUST3386,2024-09-06,Vacuum Cleaner,Home & Kitchen,86.82,5,434.1,West,Net Banking,Not Returned
+215467ce,CUST9841,2025-01-30,Tablet,Electronics,400.45,2,800.9,West,UPI,Not Returned
+5443f1ad,CUST2137,2024-12-17,Novel,Books,26.38,2,52.76,West,Net Banking,Not Returned
+5ff07a02,CUST6993,2025-05-21,Headphones,Electronics,169.51,3,508.53,East,Net Banking,Not Returned
+4abe69e8,CUST2517,2025-04-19,Tablet,Electronics,461.45,4,1845.8,West,Debit Card,Not Returned
+0cbe6a92,CUST4394,2024-12-13,Building Blocks,Toys,341.21,2,682.42,East,COD,Not Returned
+aa28ba6e,CUST2120,2024-09-02,Novel,Books,440.03,4,1760.12,East,Debit Card,Not Returned
+8717a008,CUST7303,2025-04-28,Dress,Clothing,392.5,2,785.0,South,Credit Card,Not Returned
+2f4832ed,CUST5456,2024-10-08,Laptop,Electronics,19.34,1,19.34,West,Debit Card,Not Returned
+ea640103,CUST2092,2025-06-08,Textbook,Books,474.45,3,1423.35,East,Credit Card,Not Returned
+d9e25556,CUST3457,2024-11-14,Building Blocks,Toys,221.92,3,665.76,East,COD,Not Returned
+bb535141,CUST3161,2024-07-28,Blender,Home & Kitchen,270.98,5,1354.9,South,COD,Returned
+4421dc30,CUST1332,2025-01-03,Puzzle,Toys,22.29,3,66.87,South,COD,Not Returned
+82fb2219,CUST3493,2025-01-01,Jacket,Clothing,276.56,2,553.12,West,Credit Card,Not Returned
+8c460694,CUST7607,2024-08-01,Doll,Toys,51.91,5,259.55,West,Net Banking,Not Returned
+e2a77258,CUST2778,2025-01-24,Blender,Home & Kitchen,211.12,1,211.12,West,UPI,Returned
+89642fe8,CUST2305,2025-06-04,Tablet,Electronics,22.7,5,113.5,East,COD,Not Returned
+331b1538,CUST6809,2024-11-07,Desk Lamp,Home & Kitchen,248.33,2,496.66,East,COD,Not Returned
+44c7deb3,CUST8362,2024-10-03,Dress,Clothing,390.58,4,1562.32,East,Credit Card,Not Returned
+562e0f8b,CUST5087,2024-10-31,Blender,Home & Kitchen,118.46,5,592.3,West,COD,Not Returned
+1b04f59b,CUST9691,2024-09-21,Laptop,Electronics,153.34,2,306.68,West,UPI,Not Returned
+7bf47db9,CUST5606,2024-12-04,Jacket,Clothing,199.16,5,995.8,South,Net Banking,Not Returned
+0012ace6,CUST4919,2025-02-23,Laptop,Electronics,445.81,1,445.81,North,Debit Card,Not Returned
+5ab7a0a0,CUST5702,2025-04-15,Novel,Books,224.31,2,448.62,South,Net Banking,Returned
+9de88269,CUST4116,2025-04-29,Biography,Books,52.19,5,260.95,North,Credit Card,Not Returned
+0027a909,CUST6354,2025-01-24,Laptop,Electronics,172.58,3,517.74,West,COD,Not Returned
+8e6636e7,CUST6472,2025-04-09,Novel,Books,159.9,3,479.7,West,Credit Card,Not Returned
+2101a460,CUST4476,2025-07-11,T-Shirt,Clothing,388.39,3,1165.17,North,Net Banking,Not Returned
+19b4c6a9,CUST6872,2024-10-08,Novel,Books,38.14,3,114.42,North,Debit Card,Not Returned
+f379ce47,CUST4639,2025-04-22,Puzzle,Toys,384.07,5,1920.35,East,Net Banking,Not Returned
+d444b63a,CUST1874,2024-08-08,Jacket,Clothing,289.22,4,1156.88,East,Debit Card,Not Returned
+f853b1c6,CUST8607,2025-01-22,Textbook,Books,307.66,5,1538.3,East,COD,Not Returned
+1d8281e5,CUST8483,2025-07-03,Tablet,Electronics,30.25,2,60.5,West,UPI,Not Returned
+3c8c4f16,CUST1222,2024-11-24,Jacket,Clothing,232.48,5,1162.4,East,UPI,Not Returned
+10361ed0,CUST5618,2025-01-23,Textbook,Books,87.32,4,349.28,West,Debit Card,Not Returned
+4f13ab35,CUST3885,2025-05-03,Doll,Toys,108.93,1,108.93,South,COD,Not Returned
+c116e5dd,CUST5062,2025-06-03,Vacuum Cleaner,Home & Kitchen,134.36,2,268.72,South,Debit Card,Not Returned
+0fa32036,CUST1514,2024-09-20,Desk Lamp,Home & Kitchen,17.53,1,17.53,South,UPI,Not Returned
+281994a7,CUST4579,2024-11-22,Desk Lamp,Home & Kitchen,235.19,2,470.38,North,Credit Card,Not Returned
+1141b841,CUST8919,2025-06-24,Desk Lamp,Home & Kitchen,112.47,3,337.41,South,Net Banking,Not Returned
+d31119f2,CUST2413,2024-11-04,Textbook,Books,189.75,5,948.75,East,COD,Not Returned
+b85f9247,CUST7845,2024-10-06,Dress,Clothing,147.35,3,442.05,West,UPI,Not Returned
+04563958,CUST1217,2024-09-05,Jacket,Clothing,55.12,5,275.6,South,Net Banking,Returned
+96a3773e,CUST2959,2025-02-22,Tablet,Electronics,286.39,3,859.17,East,UPI,Not Returned
+7080bcea,CUST5396,2025-03-21,Blender,Home & Kitchen,324.96,2,649.92,South,COD,Returned
+f688ef5e,CUST4400,2024-11-05,Headphones,Electronics,443.99,4,1775.96,East,COD,Not Returned
+a3b1c991,CUST4600,2025-05-20,Jeans,Clothing,305.46,5,1527.3,South,Debit Card,Not Returned
+2066545e,CUST5399,2024-11-28,Vacuum Cleaner,Home & Kitchen,254.77,3,764.31,East,COD,Returned
+363819a2,CUST6743,2025-06-29,Doll,Toys,209.56,2,419.12,West,Credit Card,Not Returned
+8f1a78b8,CUST3835,2024-10-09,Puzzle,Toys,81.55,3,244.65,East,UPI,Not Returned
+cb43a78c,CUST3416,2025-03-05,Puzzle,Toys,45.29,4,181.16,East,Debit Card,Not Returned
+200cd42f,CUST2983,2024-08-23,Tablet,Electronics,55.01,4,220.04,West,Credit Card,Returned
+fcee519a,CUST3767,2025-06-22,Doll,Toys,168.18,1,168.18,West,Credit Card,Not Returned
+5de0d3d6,CUST5978,2024-08-21,Tablet,Electronics,397.96,5,1989.8,North,COD,Not Returned
+326c19ae,CUST5266,2025-04-13,Blender,Home & Kitchen,234.68,3,704.04,West,Debit Card,Not Returned
+60ede22d,CUST3941,2024-10-12,Remote Car,Toys,146.24,4,584.96,East,Debit Card,Not Returned
+ade15cae,CUST9512,2024-12-15,Vacuum Cleaner,Home & Kitchen,181.37,5,906.85,West,Net Banking,Returned
+37af2079,CUST2156,2024-08-05,Remote Car,Toys,279.61,1,279.61,North,UPI,Not Returned
+f8115f10,CUST2352,2025-01-15,Dress,Clothing,403.3,3,1209.9,North,COD,Not Returned
+9523ad39,CUST2742,2024-09-12,Smartphone,Electronics,304.8,5,1524.0,West,Net Banking,Not Returned
+e4ae048d,CUST6454,2025-05-27,Remote Car,Toys,92.5,5,462.5,West,Net Banking,Not Returned
+5a827d4f,CUST1122,2024-08-15,Blender,Home & Kitchen,440.39,4,1761.56,West,COD,Not Returned
+ce58aeff,CUST8037,2025-02-03,Cookware Set,Home & Kitchen,235.52,4,942.08,West,UPI,Not Returned
+ed796a81,CUST8271,2024-12-19,Building Blocks,Toys,394.13,1,394.13,North,Debit Card,Not Returned
+6878996d,CUST8938,2025-07-02,Laptop,Electronics,265.84,3,797.52,East,Debit Card,Not Returned
+86363c93,CUST7007,2025-01-15,Vacuum Cleaner,Home & Kitchen,310.6,4,1242.4,East,Debit Card,Not Returned
+3d7ef4e5,CUST1758,2025-04-12,Jeans,Clothing,162.99,5,814.95,East,Debit Card,Not Returned
+4cf52996,CUST1773,2024-09-06,Blender,Home & Kitchen,213.58,3,640.74,East,Net Banking,Not Returned
+35ff7043,CUST2362,2025-01-10,Dress,Clothing,385.52,3,1156.56,North,Debit Card,Not Returned
+97b5698e,CUST7209,2024-09-01,Smartphone,Electronics,248.76,3,746.28,East,Debit Card,Not Returned
+c692b91e,CUST4722,2025-02-02,Building Blocks,Toys,261.83,3,785.49,East,Debit Card,Not Returned
+18a0385d,CUST9861,2024-12-13,Jeans,Clothing,32.45,2,64.9,North,Debit Card,Returned
+c67283a5,CUST4266,2024-12-30,Headphones,Electronics,403.65,5,2018.25,West,UPI,Not Returned
+e37ae98c,CUST4969,2025-01-27,Desk Lamp,Home & Kitchen,56.19,3,168.57,South,Debit Card,Not Returned
+2ca978c1,CUST9965,2024-12-09,Building Blocks,Toys,51.35,3,154.05,South,COD,Not Returned
+e613b0e4,CUST1579,2024-12-01,Novel,Books,475.47,1,475.47,North,Debit Card,Not Returned
+703d28cc,CUST4507,2024-10-12,Puzzle,Toys,394.2,5,1971.0,West,Credit Card,Returned
+66cb6e22,CUST7014,2024-11-25,Vacuum Cleaner,Home & Kitchen,38.43,4,153.72,South,COD,Returned
+09bd7efc,CUST6681,2025-07-09,Headphones,Electronics,89.38,1,89.38,East,UPI,Not Returned
+655f3d94,CUST8144,2025-06-07,Vacuum Cleaner,Home & Kitchen,376.36,5,1881.8,East,UPI,Not Returned
+0e2cec4a,CUST8058,2024-08-14,Textbook,Books,489.43,5,2447.15,South,Debit Card,Not Returned
+7f3b90c9,CUST6602,2025-04-22,Laptop,Electronics,425.54,3,1276.62,West,Debit Card,Not Returned
+f2657d8a,CUST1153,2025-01-04,Desk Lamp,Home & Kitchen,89.04,4,356.16,South,COD,Not Returned
+40834bd8,CUST4322,2025-05-14,Doll,Toys,487.29,1,487.29,East,Debit Card,Not Returned
+c0602829,CUST5124,2024-12-07,Tablet,Electronics,256.24,3,768.72,North,UPI,Not Returned
+d3abc327,CUST6974,2024-12-20,Comics,Books,402.97,1,402.97,West,Debit Card,Returned
+e49e9ef6,CUST6376,2024-11-28,Desk Lamp,Home & Kitchen,28.88,2,57.76,East,Credit Card,Not Returned
+762ceabe,CUST7798,2024-08-26,Cookware Set,Home & Kitchen,159.03,2,318.06,North,Credit Card,Not Returned
+097eb1c5,CUST5427,2024-07-14,Blender,Home & Kitchen,307.44,3,922.32,North,Credit Card,Not Returned
+8a10b1e8,CUST2343,2025-04-12,Tablet,Electronics,341.11,4,1364.44,North,Debit Card,Not Returned
+0d9bda89,CUST6186,2024-12-12,Desk Lamp,Home & Kitchen,413.57,1,413.57,North,UPI,Not Returned
+cb3ba444,CUST8681,2024-08-19,Building Blocks,Toys,192.34,1,192.34,South,COD,Not Returned
+9a24b175,CUST6180,2025-04-26,Biography,Books,421.07,2,842.14,South,Debit Card,Returned
+7999e9c6,CUST3115,2024-09-30,Headphones,Electronics,158.44,2,316.88,South,Net Banking,Not Returned
+9cbbd87e,CUST7257,2025-05-10,Textbook,Books,401.53,3,1204.59,West,Net Banking,Not Returned
+c8647aa4,CUST4186,2024-08-16,Textbook,Books,22.71,2,45.42,East,Net Banking,Not Returned
+7715db12,CUST3724,2025-07-12,Remote Car,Toys,47.74,2,95.48,South,Debit Card,Not Returned
+acf8da19,CUST1204,2025-02-04,Smartphone,Electronics,203.12,1,203.12,East,Net Banking,Not Returned
+1276923b,CUST3777,2025-07-06,Jacket,Clothing,317.82,1,317.82,West,Credit Card,Not Returned
+6e15744a,CUST9174,2025-03-08,Desk Lamp,Home & Kitchen,213.16,4,852.64,West,Debit Card,Not Returned
+1d12f228,CUST6873,2024-11-07,T-Shirt,Clothing,373.45,2,746.9,South,Net Banking,Not Returned
+54303d1d,CUST3439,2025-01-07,Headphones,Electronics,167.39,5,836.95,West,Net Banking,Returned
+4939c192,CUST3991,2024-09-30,Jeans,Clothing,194.01,4,776.04,North,Debit Card,Not Returned
+d8eca2e3,CUST4302,2024-10-18,Smartphone,Electronics,230.81,3,692.43,South,Credit Card,Not Returned
+b7d66860,CUST6519,2025-04-05,Novel,Books,482.76,4,1931.04,West,Credit Card,Not Returned
+456afaf4,CUST4137,2025-01-22,Novel,Books,132.07,2,264.14,West,UPI,Not Returned
+b7de62cf,CUST1446,2024-10-07,Dress,Clothing,263.86,4,1055.44,West,Net Banking,Not Returned
+7fef0960,CUST7654,2024-10-23,Puzzle,Toys,124.47,4,497.88,West,COD,Not Returned
+691979df,CUST2275,2025-04-16,Doll,Toys,471.7,1,471.7,North,Credit Card,Not Returned
+520e9c19,CUST1195,2025-03-07,Biography,Books,140.86,3,422.58,North,UPI,Not Returned
+955bb446,CUST4988,2024-12-01,Vacuum Cleaner,Home & Kitchen,385.12,3,1155.36,East,UPI,Not Returned
+79098584,CUST9831,2024-09-26,Novel,Books,186.72,5,933.6,South,COD,Not Returned
+d9df5ffb,CUST2816,2024-11-24,Puzzle,Toys,363.14,2,726.28,South,Debit Card,Returned
+93396a26,CUST3946,2024-12-10,Cookware Set,Home & Kitchen,298.19,5,1490.95,North,COD,Not Returned
+0a364a8c,CUST4172,2025-02-17,Building Blocks,Toys,37.68,5,188.4,South,COD,Not Returned
+ef57cee8,CUST8878,2025-06-17,Comics,Books,236.49,2,472.98,North,Net Banking,Not Returned
+3afdfbc1,CUST7748,2025-02-27,Biography,Books,293.97,4,1175.88,East,Credit Card,Not Returned
+269f983b,CUST4737,2025-05-04,Building Blocks,Toys,407.88,4,1631.52,South,Net Banking,Not Returned
+db59b2b3,CUST5005,2025-06-23,Comics,Books,329.04,2,658.08,East,Debit Card,Not Returned
+1b706a92,CUST8893,2025-01-23,Laptop,Electronics,345.88,3,1037.64,East,Credit Card,Not Returned
+cc635a56,CUST6908,2025-05-21,Comics,Books,357.63,4,1430.52,West,UPI,Not Returned
+a92e7a2a,CUST7771,2025-07-02,Tablet,Electronics,371.62,2,743.24,North,UPI,Not Returned
+3637a653,CUST7149,2025-06-13,Dress,Clothing,13.02,1,13.02,East,UPI,Not Returned
+90231603,CUST7360,2024-07-24,Headphones,Electronics,144.75,1,144.75,East,COD,Not Returned
+d1999b4c,CUST2410,2025-01-16,Remote Car,Toys,304.54,2,609.08,West,Net Banking,Not Returned
+89f3613f,CUST6811,2024-10-01,Novel,Books,279.66,3,838.98,East,Net Banking,Returned
+deb32ae1,CUST5490,2025-06-19,Biography,Books,409.38,3,1228.14,South,COD,Not Returned
+f6f4a7bb,CUST5444,2025-04-26,Tablet,Electronics,83.6,4,334.4,North,Debit Card,Not Returned
+6b69dcf7,CUST8550,2024-12-22,Cookware Set,Home & Kitchen,149.32,2,298.64,North,UPI,Returned
+2d5d27b6,CUST6269,2025-05-24,Jacket,Clothing,137.05,4,548.2,West,Debit Card,Not Returned
+6a42f306,CUST4419,2024-09-27,Headphones,Electronics,363.9,4,1455.6,West,Credit Card,Returned
+c2c2875a,CUST3121,2024-10-01,Remote Car,Toys,77.21,1,77.21,West,Debit Card,Not Returned
+4a1b30fb,CUST7974,2024-08-26,Textbook,Books,175.54,1,175.54,West,UPI,Not Returned
+1cb32c2c,CUST5750,2024-10-02,Remote Car,Toys,270.97,5,1354.85,South,COD,Not Returned
+dd01255f,CUST2219,2024-09-23,Dress,Clothing,146.29,1,146.29,South,Credit Card,Not Returned
+7bc770a8,CUST6612,2025-02-27,Jeans,Clothing,446.75,1,446.75,West,Debit Card,Not Returned
+a11aaf19,CUST5266,2025-01-03,Building Blocks,Toys,41.86,5,209.3,West,Credit Card,Not Returned
+97c534e3,CUST4714,2024-11-12,Biography,Books,329.01,4,1316.04,East,UPI,Not Returned
+82cbdb9d,CUST3850,2025-07-14,Vacuum Cleaner,Home & Kitchen,487.72,5,2438.6,West,Debit Card,Not Returned
+162a0552,CUST4248,2025-03-02,Desk Lamp,Home & Kitchen,360.02,2,720.04,East,UPI,Not Returned
+3a009610,CUST6055,2024-12-29,Building Blocks,Toys,185.1,5,925.5,East,Credit Card,Not Returned
+fbc7bf2a,CUST2062,2024-12-22,Jeans,Clothing,60.65,3,181.95,South,Credit Card,Not Returned
+446ee9d7,CUST1401,2024-11-14,Tablet,Electronics,141.16,5,705.8,West,Credit Card,Not Returned
+c2afd413,CUST3543,2024-08-05,Cookware Set,Home & Kitchen,331.44,1,331.44,East,Debit Card,Not Returned
+d0a25504,CUST4308,2024-11-21,Puzzle,Toys,310.62,5,1553.1,West,Debit Card,Not Returned
+0f88b462,CUST1417,2024-08-25,Vacuum Cleaner,Home & Kitchen,442.52,1,442.52,North,Net Banking,Not Returned
+f94f9200,CUST8715,2025-07-10,Headphones,Electronics,188.61,2,377.22,East,Debit Card,Not Returned
+41c1e41d,CUST6211,2025-01-11,T-Shirt,Clothing,291.91,5,1459.55,South,COD,Returned
+ed1b145e,CUST9190,2024-08-24,Remote Car,Toys,431.56,2,863.12,West,Credit Card,Not Returned
+03d69137,CUST9383,2025-01-08,Novel,Books,118.13,3,354.39,South,Debit Card,Not Returned
+d43ba009,CUST2161,2024-09-02,Comics,Books,180.5,2,361.0,West,COD,Not Returned
+6e3e34ef,CUST1631,2025-03-05,Tablet,Electronics,44.15,2,88.3,North,Debit Card,Not Returned
+35064e7c,CUST9286,2024-08-01,Biography,Books,246.0,2,492.0,South,COD,Not Returned
+4ed1ce00,CUST6516,2025-03-14,Tablet,Electronics,309.48,3,928.44,West,Debit Card,Not Returned
+7212a364,CUST3785,2024-12-12,Puzzle,Toys,19.84,2,39.68,East,Net Banking,Not Returned
+23bc45cc,CUST3161,2024-09-21,Jacket,Clothing,390.95,5,1954.75,North,COD,Returned
+5df17ccc,CUST2696,2025-07-07,Laptop,Electronics,410.39,1,410.39,South,COD,Not Returned
+673d9da6,CUST2214,2025-04-04,Tablet,Electronics,76.05,2,152.1,North,Debit Card,Not Returned
+2968592e,CUST8717,2024-09-17,T-Shirt,Clothing,16.94,1,16.94,North,Net Banking,Not Returned
+ed2fbb21,CUST9431,2025-01-25,Cookware Set,Home & Kitchen,339.84,4,1359.36,North,Credit Card,Not Returned
+613bda80,CUST4516,2025-06-26,Jeans,Clothing,218.19,3,654.57,South,UPI,Not Returned
+eb6a982f,CUST8565,2024-12-22,Jeans,Clothing,433.29,4,1733.16,North,Credit Card,Not Returned
+0e63711c,CUST3684,2025-05-01,Tablet,Electronics,77.69,2,155.38,East,Debit Card,Not Returned
+175ca11d,CUST2653,2024-08-21,Jacket,Clothing,324.4,4,1297.6,East,COD,Not Returned
+96c7885a,CUST7486,2025-03-15,Blender,Home & Kitchen,259.29,1,259.29,West,Credit Card,Not Returned
+9013b9fb,CUST4972,2025-05-16,Smartphone,Electronics,201.27,1,201.27,South,Debit Card,Not Returned
+3f7b042c,CUST5867,2025-03-22,Smartphone,Electronics,339.05,4,1356.2,North,UPI,Not Returned
+dd7d7b68,CUST8410,2025-04-01,T-Shirt,Clothing,200.42,2,400.84,North,Credit Card,Not Returned
+d0b25213,CUST7810,2025-04-19,Jacket,Clothing,423.0,1,423.0,South,Debit Card,Returned
+ed20d62a,CUST9507,2024-09-30,Textbook,Books,433.84,5,2169.2,North,UPI,Not Returned
+d9f569cc,CUST8553,2025-03-05,Jacket,Clothing,297.55,3,892.65,West,Credit Card,Not Returned
+59c95a4c,CUST2667,2025-06-10,Remote Car,Toys,314.45,2,628.9,North,UPI,Not Returned
+6e16e611,CUST6172,2024-09-01,Tablet,Electronics,127.96,3,383.88,North,Debit Card,Returned
+aa4b9d59,CUST4537,2024-12-25,Smartphone,Electronics,492.1,2,984.2,North,Credit Card,Not Returned
+60b6eee8,CUST7480,2025-01-12,T-Shirt,Clothing,246.68,2,493.36,South,UPI,Not Returned
+753d676f,CUST1156,2025-06-18,Textbook,Books,365.6,2,731.2,South,UPI,Not Returned
+7b810b78,CUST6611,2024-12-22,Cookware Set,Home & Kitchen,73.25,5,366.25,East,UPI,Not Returned
+7da8df65,CUST2999,2025-05-02,Doll,Toys,421.58,1,421.58,North,Net Banking,Not Returned
+dce62cdc,CUST1633,2025-04-06,Novel,Books,122.65,5,613.25,East,UPI,Not Returned
+3a54c8c6,CUST4459,2024-07-18,Remote Car,Toys,88.07,4,352.28,East,COD,Not Returned
+2379d238,CUST9064,2025-06-02,Headphones,Electronics,449.72,3,1349.16,South,UPI,Not Returned
+252eac4f,CUST4953,2024-07-15,Comics,Books,77.25,1,77.25,South,Credit Card,Not Returned
+29d51576,CUST9041,2024-08-14,Jacket,Clothing,32.09,5,160.45,South,Debit Card,Not Returned
+96d28e43,CUST2515,2025-03-15,Smartphone,Electronics,312.23,4,1248.92,West,COD,Not Returned
+7668cd29,CUST2160,2025-05-05,Jacket,Clothing,166.64,1,166.64,North,Credit Card,Not Returned
+ca851718,CUST5844,2025-02-04,Remote Car,Toys,403.4,2,806.8,North,COD,Not Returned
+1690a42a,CUST7870,2024-12-20,Desk Lamp,Home & Kitchen,319.28,3,957.84,East,Net Banking,Not Returned
+76c731dc,CUST5310,2025-05-11,Textbook,Books,427.32,3,1281.96,North,Credit Card,Not Returned
+17abda0c,CUST8882,2025-03-29,Jeans,Clothing,472.69,1,472.69,South,Net Banking,Not Returned
+73af311b,CUST3320,2025-06-24,Cookware Set,Home & Kitchen,293.33,4,1173.32,West,Credit Card,Not Returned
+9253315e,CUST7945,2024-09-22,Biography,Books,414.18,3,1242.54,West,Net Banking,Not Returned
+65956851,CUST2802,2025-01-28,Building Blocks,Toys,74.51,3,223.53,North,COD,Not Returned
+05af038f,CUST5093,2024-09-24,Puzzle,Toys,97.41,4,389.64,East,Debit Card,Returned
+d019944c,CUST5839,2025-01-13,Novel,Books,80.57,2,161.14,East,COD,Not Returned
+9116589a,CUST2154,2024-08-18,Blender,Home & Kitchen,33.31,1,33.31,North,Net Banking,Not Returned
+a67931ee,CUST9975,2025-01-17,Biography,Books,353.99,1,353.99,North,Credit Card,Not Returned
+fd4195cc,CUST6614,2024-10-27,Smartphone,Electronics,499.69,3,1499.07,West,Debit Card,Not Returned
+762d35d8,CUST1627,2025-01-29,T-Shirt,Clothing,349.58,4,1398.32,South,Net Banking,Not Returned
+9e3a1ab4,CUST2336,2024-09-07,Desk Lamp,Home & Kitchen,397.3,2,794.6,North,UPI,Not Returned
+82b260ba,CUST6397,2024-11-13,Biography,Books,425.06,5,2125.3,South,Credit Card,Not Returned
+9eec6a1a,CUST3974,2025-01-29,Comics,Books,456.36,4,1825.44,West,Net Banking,Not Returned
+2a19a313,CUST3293,2025-05-11,Blender,Home & Kitchen,395.6,1,395.6,East,UPI,Not Returned
+354c9286,CUST3142,2024-12-19,Novel,Books,290.74,5,1453.7,West,COD,Not Returned
+2253f9da,CUST8099,2025-05-27,Smartphone,Electronics,367.93,2,735.86,West,Debit Card,Not Returned
+50f4e0c2,CUST9718,2025-05-12,Puzzle,Toys,181.2,3,543.6,North,COD,Not Returned
+c160d275,CUST1633,2025-02-14,Smartphone,Electronics,208.96,4,835.84,West,Debit Card,Not Returned
+5c067ca9,CUST9040,2025-06-03,Tablet,Electronics,57.97,4,231.88,West,Net Banking,Not Returned
+1bd42a6a,CUST7230,2025-03-22,Novel,Books,395.67,1,395.67,West,COD,Not Returned
+3e6f9d99,CUST5247,2024-07-26,Tablet,Electronics,317.21,5,1586.05,West,UPI,Not Returned
+3d4650a5,CUST5313,2024-08-11,Dress,Clothing,491.42,2,982.84,North,Debit Card,Not Returned
+a3474b55,CUST7952,2025-04-10,Remote Car,Toys,195.46,1,195.46,North,Net Banking,Not Returned
+61d877e8,CUST1758,2025-02-17,Headphones,Electronics,198.9,3,596.7,South,Debit Card,Not Returned
+f6748217,CUST3783,2024-08-05,Novel,Books,443.25,5,2216.25,South,Net Banking,Not Returned
+d6c54516,CUST7259,2025-04-04,Headphones,Electronics,151.62,2,303.24,South,Debit Card,Not Returned
+9849c054,CUST1655,2025-04-30,Jeans,Clothing,94.2,4,376.8,West,Net Banking,Not Returned
+6a5cea04,CUST1828,2025-04-02,T-Shirt,Clothing,473.28,2,946.56,West,Debit Card,Not Returned
+a210f87d,CUST6128,2025-03-24,Textbook,Books,110.97,1,110.97,North,COD,Not Returned
+0e086abb,CUST3430,2025-04-12,Tablet,Electronics,66.99,1,66.99,West,Debit Card,Not Returned
+ff12dfa0,CUST2642,2025-06-27,Jeans,Clothing,345.1,4,1380.4,East,Credit Card,Not Returned
+48dd0db5,CUST1900,2024-10-19,Textbook,Books,407.45,3,1222.35,East,COD,Not Returned
+0cfd8fa2,CUST6770,2024-08-20,Novel,Books,118.46,4,473.84,West,Net Banking,Not Returned
+369e9ea3,CUST7825,2024-08-23,Cookware Set,Home & Kitchen,407.26,2,814.52,South,UPI,Not Returned
+e92b61c4,CUST9904,2025-07-05,Headphones,Electronics,358.82,3,1076.46,North,Net Banking,Not Returned
+cd1a67e3,CUST4335,2024-10-09,Comics,Books,257.95,3,773.85,West,Credit Card,Returned
+ac1e14ef,CUST2201,2025-06-13,Smartphone,Electronics,486.33,4,1945.32,West,Credit Card,Not Returned
+7c6472c3,CUST2834,2024-08-29,Blender,Home & Kitchen,458.67,1,458.67,West,Debit Card,Returned
+69834778,CUST2943,2025-03-04,Comics,Books,25.2,4,100.8,West,Net Banking,Not Returned
+3919ddbe,CUST9936,2024-12-19,Building Blocks,Toys,239.3,3,717.9,West,Net Banking,Not Returned
+5b665c61,CUST5074,2024-10-12,Tablet,Electronics,202.89,2,405.78,West,Net Banking,Returned
+922b41c0,CUST7827,2025-04-12,Comics,Books,171.65,5,858.25,South,Debit Card,Not Returned
+99824cb5,CUST3486,2025-05-01,Puzzle,Toys,231.88,5,1159.4,North,Credit Card,Not Returned
+51fac43b,CUST8482,2025-03-15,Laptop,Electronics,171.85,3,515.55,North,UPI,Returned
+93444e92,CUST8872,2024-09-01,Comics,Books,131.99,4,527.96,South,UPI,Not Returned
+a20751b9,CUST1570,2025-01-20,Comics,Books,146.99,2,293.98,East,UPI,Not Returned
+af6eb6c2,CUST7623,2024-08-27,Blender,Home & Kitchen,476.58,3,1429.74,East,COD,Not Returned
+08c66999,CUST4541,2025-04-19,Puzzle,Toys,493.36,1,493.36,West,UPI,Returned
+88b3d239,CUST4108,2025-02-03,Biography,Books,495.04,1,495.04,West,UPI,Not Returned
+19bab620,CUST5642,2024-10-07,Jacket,Clothing,376.31,1,376.31,West,Credit Card,Not Returned
+b314bab9,CUST2019,2025-05-26,Dress,Clothing,115.64,1,115.64,West,Net Banking,Not Returned
+17dbf411,CUST6228,2025-05-10,Novel,Books,436.18,1,436.18,West,Debit Card,Not Returned
+de785d07,CUST5789,2025-05-10,Cookware Set,Home & Kitchen,278.71,3,836.13,North,Net Banking,Not Returned
+5d648519,CUST9802,2025-03-24,Blender,Home & Kitchen,153.78,2,307.56,North,Net Banking,Not Returned
+4b217d52,CUST8473,2024-09-08,Remote Car,Toys,273.36,1,273.36,South,UPI,Not Returned
+cfaf3a92,CUST1389,2025-02-27,Desk Lamp,Home & Kitchen,132.86,1,132.86,East,COD,Returned
+2496a48d,CUST8996,2025-07-03,T-Shirt,Clothing,335.5,1,335.5,North,COD,Not Returned
+6ef4ed21,CUST3817,2025-01-16,Dress,Clothing,416.23,2,832.46,South,Net Banking,Not Returned
+732cd845,CUST6171,2025-06-18,Desk Lamp,Home & Kitchen,414.47,4,1657.88,South,Credit Card,Not Returned
+b8a432c3,CUST5369,2025-02-08,Comics,Books,360.08,3,1080.24,South,Credit Card,Not Returned
+e3f2615e,CUST6351,2025-01-24,Dress,Clothing,208.09,5,1040.45,West,Credit Card,Not Returned
+85ceb38f,CUST2314,2024-10-30,Puzzle,Toys,112.41,3,337.23,East,Debit Card,Not Returned
+cfd7bab3,CUST3343,2025-06-26,Comics,Books,373.23,2,746.46,West,UPI,Not Returned
+27c715bf,CUST6927,2024-09-16,Comics,Books,128.67,4,514.68,East,Credit Card,Not Returned
+c38bb046,CUST9295,2025-02-04,Doll,Toys,274.43,3,823.29,North,UPI,Not Returned
+00c39515,CUST1872,2025-03-02,Smartphone,Electronics,356.39,5,1781.95,West,COD,Returned
+90d51a75,CUST5610,2025-02-08,Building Blocks,Toys,81.64,1,81.64,North,UPI,Not Returned
+5de13162,CUST7557,2024-10-15,Vacuum Cleaner,Home & Kitchen,454.27,4,1817.08,North,UPI,Returned
+6d3f93aa,CUST1075,2024-10-17,Dress,Clothing,422.92,5,2114.6,West,Net Banking,Not Returned
+37a5eca8,CUST3372,2024-07-16,Jacket,Clothing,487.59,5,2437.95,North,Net Banking,Not Returned
+89518da7,CUST6416,2024-11-29,Jeans,Clothing,13.58,2,27.16,East,Net Banking,Not Returned
+64ddf864,CUST8367,2024-08-20,Tablet,Electronics,467.24,2,934.48,West,Net Banking,Returned
+686a36f0,CUST4148,2025-02-27,Novel,Books,249.69,3,749.07,East,Credit Card,Not Returned
+93ec8e58,CUST4754,2024-10-18,Doll,Toys,60.23,5,301.15,West,Debit Card,Not Returned
+13df8853,CUST6740,2025-03-30,Dress,Clothing,369.08,2,738.16,North,Credit Card,Not Returned
+777df8e6,CUST9751,2025-01-07,Desk Lamp,Home & Kitchen,270.62,1,270.62,West,Credit Card,Not Returned
+79e5101f,CUST8631,2024-11-08,Jeans,Clothing,293.83,4,1175.32,South,Net Banking,Not Returned
+bfd07e76,CUST6583,2024-10-11,Jeans,Clothing,466.97,4,1867.88,West,COD,Not Returned
+056adff9,CUST5784,2024-10-31,Tablet,Electronics,394.22,3,1182.66,East,UPI,Not Returned
+31b3cd45,CUST8509,2024-11-15,Doll,Toys,302.75,5,1513.75,South,Debit Card,Not Returned
+1d43ab1f,CUST2352,2024-11-14,Doll,Toys,387.97,3,1163.91,North,Credit Card,Not Returned
+9f399456,CUST5159,2024-07-18,Smartphone,Electronics,113.08,2,226.16,South,UPI,Not Returned
+71badb0b,CUST4618,2025-02-28,Cookware Set,Home & Kitchen,300.42,4,1201.68,North,COD,Not Returned
+17de9431,CUST4236,2025-05-30,Textbook,Books,128.64,1,128.64,North,UPI,Not Returned
+e15af924,CUST9550,2024-09-22,Building Blocks,Toys,450.61,4,1802.44,West,Debit Card,Not Returned
+4d89391c,CUST2132,2024-07-22,Remote Car,Toys,83.73,4,334.92,North,UPI,Not Returned
+2796d773,CUST2514,2024-12-17,Comics,Books,225.49,2,450.98,West,UPI,Not Returned
+e855de9a,CUST2846,2025-05-12,Vacuum Cleaner,Home & Kitchen,246.03,1,246.03,North,Net Banking,Not Returned
+f6a50bee,CUST5592,2024-08-04,Novel,Books,323.41,3,970.23,North,Debit Card,Not Returned
+a4c584f9,CUST6110,2025-05-17,T-Shirt,Clothing,130.64,2,261.28,West,Debit Card,Not Returned
+3562057b,CUST4192,2024-12-20,Blender,Home & Kitchen,153.57,4,614.28,South,Net Banking,Not Returned
+70324915,CUST2689,2025-07-05,Blender,Home & Kitchen,69.38,1,69.38,East,COD,Not Returned
+b442e17e,CUST6459,2024-11-23,Blender,Home & Kitchen,205.6,4,822.4,East,Debit Card,Not Returned
+79c8af76,CUST7006,2025-02-21,Cookware Set,Home & Kitchen,251.41,1,251.41,East,Net Banking,Not Returned
+d7268310,CUST7022,2025-05-08,Puzzle,Toys,55.38,1,55.38,South,COD,Not Returned
+5b4e9ebe,CUST3610,2024-09-23,Headphones,Electronics,45.56,4,182.24,West,Credit Card,Not Returned
+f814885b,CUST9538,2024-12-31,Laptop,Electronics,310.97,5,1554.85,West,Net Banking,Not Returned
+46a7274b,CUST8719,2024-11-20,Comics,Books,92.69,2,185.38,East,UPI,Returned
+59a37350,CUST4638,2025-01-12,Remote Car,Toys,473.91,2,947.82,North,Debit Card,Not Returned
+e681eda7,CUST4567,2024-08-19,Smartphone,Electronics,28.38,4,113.52,South,UPI,Not Returned
+f63e59cc,CUST2665,2025-03-12,Vacuum Cleaner,Home & Kitchen,38.89,3,116.67,North,Net Banking,Not Returned
+2bf6cfdd,CUST1410,2024-12-17,Doll,Toys,239.59,2,479.18,West,Net Banking,Not Returned
+53907f00,CUST8026,2025-04-10,Puzzle,Toys,54.52,2,109.04,East,COD,Not Returned
+5f69c92d,CUST6430,2024-10-24,Comics,Books,441.38,1,441.38,North,Net Banking,Not Returned
+23547f2e,CUST1514,2024-11-18,Comics,Books,274.88,4,1099.52,South,Credit Card,Not Returned
+3d02cac5,CUST8956,2025-01-04,Headphones,Electronics,332.04,1,332.04,East,COD,Not Returned
+ae69f878,CUST8954,2025-06-04,Vacuum Cleaner,Home & Kitchen,411.97,1,411.97,South,UPI,Returned
+aef79fb6,CUST7572,2025-01-17,T-Shirt,Clothing,347.09,3,1041.27,North,Credit Card,Returned
+0cf45692,CUST1987,2025-02-17,Jeans,Clothing,56.44,5,282.2,North,Debit Card,Returned
+44eaaa3b,CUST9967,2024-09-20,Cookware Set,Home & Kitchen,177.61,4,710.44,East,Credit Card,Not Returned
+6e9e9eaa,CUST4590,2025-03-07,Jeans,Clothing,29.01,3,87.03,West,COD,Not Returned
+4052a0cd,CUST7856,2025-03-15,Smartphone,Electronics,253.47,5,1267.35,South,COD,Not Returned
+4b4a7fdc,CUST4259,2025-02-15,Doll,Toys,78.23,5,391.15,West,COD,Not Returned
+5b3459c3,CUST6971,2024-10-14,Desk Lamp,Home & Kitchen,254.76,1,254.76,North,UPI,Not Returned
+c097c4ed,CUST3199,2024-12-07,T-Shirt,Clothing,225.23,5,1126.15,South,COD,Not Returned
+842c3179,CUST7302,2025-01-16,Vacuum Cleaner,Home & Kitchen,189.06,2,378.12,North,Credit Card,Not Returned
+381ec04f,CUST7006,2024-12-07,Comics,Books,461.26,4,1845.04,East,Net Banking,Not Returned
+e8802275,CUST9931,2025-06-27,T-Shirt,Clothing,344.28,5,1721.4,South,Net Banking,Not Returned
+1aea37df,CUST4847,2024-08-22,Building Blocks,Toys,244.79,5,1223.95,West,Debit Card,Returned
+d6bcbe89,CUST1148,2024-08-21,Vacuum Cleaner,Home & Kitchen,460.6,2,921.2,West,Net Banking,Not Returned
+12036497,CUST2083,2024-12-25,Cookware Set,Home & Kitchen,151.88,5,759.4,South,Credit Card,Not Returned
+1770a1c9,CUST3120,2025-03-19,Vacuum Cleaner,Home & Kitchen,74.44,4,297.76,East,Debit Card,Returned
+29848c39,CUST5308,2024-11-05,Jacket,Clothing,160.22,5,801.1,East,Debit Card,Not Returned
+522fba20,CUST9496,2025-06-05,Jeans,Clothing,229.43,4,917.72,South,Net Banking,Not Returned
+98faece4,CUST3607,2025-06-12,Smartphone,Electronics,450.65,2,901.3,East,COD,Not Returned
+ff4f467a,CUST7704,2025-01-25,Smartphone,Electronics,377.85,5,1889.25,South,Credit Card,Not Returned
+b104d9e6,CUST4751,2024-12-27,Jeans,Clothing,310.15,2,620.3,South,Debit Card,Not Returned
+4a1b4227,CUST1443,2025-02-24,Cookware Set,Home & Kitchen,128.86,1,128.86,East,Net Banking,Not Returned
+f310115d,CUST6106,2025-05-19,Textbook,Books,157.5,5,787.5,East,Debit Card,Not Returned
+516ed06b,CUST8521,2025-02-23,Smartphone,Electronics,98.86,1,98.86,West,Credit Card,Not Returned
+bf2af82e,CUST6785,2025-06-03,T-Shirt,Clothing,135.16,1,135.16,South,Credit Card,Returned
+af748416,CUST8763,2024-07-17,Tablet,Electronics,271.37,1,271.37,South,COD,Not Returned
+c8ad6d45,CUST2264,2024-10-03,Doll,Toys,226.8,1,226.8,North,Debit Card,Not Returned
+d2982b36,CUST9021,2024-08-11,Desk Lamp,Home & Kitchen,73.7,4,294.8,South,COD,Not Returned
+e5c210d3,CUST7220,2024-10-16,Headphones,Electronics,246.59,4,986.36,South,COD,Not Returned
+c2b0c6e3,CUST7551,2025-03-03,Comics,Books,135.22,4,540.88,South,Debit Card,Not Returned
+0466f6d0,CUST4759,2024-09-07,Headphones,Electronics,51.64,3,154.92,North,COD,Returned
+ef6b2921,CUST4063,2025-03-29,Headphones,Electronics,480.33,1,480.33,East,Credit Card,Not Returned
+d4e3ec72,CUST1897,2025-01-03,Laptop,Electronics,330.88,5,1654.4,North,Net Banking,Not Returned
+ffb6c3fd,CUST7428,2025-06-23,T-Shirt,Clothing,396.84,2,793.68,West,COD,Not Returned
+7a39a0df,CUST9097,2025-06-24,Remote Car,Toys,140.06,1,140.06,West,Credit Card,Not Returned
+aee4f16f,CUST6463,2025-02-02,Comics,Books,326.44,3,979.32,East,Debit Card,Not Returned
+f44d5cb3,CUST8574,2025-05-17,Jacket,Clothing,326.68,1,326.68,South,UPI,Not Returned
+664a549b,CUST7765,2025-06-20,Smartphone,Electronics,326.34,3,979.02,South,COD,Not Returned
+55ed290a,CUST7231,2025-04-15,Comics,Books,297.48,5,1487.4,East,Credit Card,Not Returned
+5d63d7b2,CUST8621,2025-05-10,Doll,Toys,232.43,2,464.86,East,Credit Card,Not Returned
+50550311,CUST6681,2024-09-16,Blender,Home & Kitchen,152.41,4,609.64,North,Net Banking,Not Returned
+009e2a0b,CUST6708,2025-02-18,Tablet,Electronics,52.96,5,264.8,South,Credit Card,Not Returned
+20277861,CUST4620,2025-03-05,Headphones,Electronics,418.76,3,1256.28,South,Debit Card,Returned
+ab6fab6c,CUST6352,2025-01-31,Textbook,Books,368.07,5,1840.35,East,Net Banking,Returned
+7ccd12c7,CUST6745,2025-01-27,Smartphone,Electronics,15.17,1,15.17,East,Debit Card,Returned
+78322156,CUST8338,2024-09-18,Comics,Books,192.86,4,771.44,West,COD,Not Returned
+b78361c1,CUST3822,2024-11-05,Vacuum Cleaner,Home & Kitchen,260.42,4,1041.68,East,UPI,Not Returned
+0f776b1c,CUST6189,2025-05-21,Dress,Clothing,70.97,3,212.91,East,Net Banking,Not Returned
+661f5e65,CUST5866,2025-04-30,Dress,Clothing,455.96,1,455.96,West,Net Banking,Not Returned
+89b0ec53,CUST8909,2025-03-12,Laptop,Electronics,206.45,3,619.35,South,Net Banking,Not Returned
+06ec0766,CUST9805,2025-05-11,Building Blocks,Toys,383.29,4,1533.16,West,COD,Not Returned
+6fcdf76d,CUST5184,2024-09-24,Vacuum Cleaner,Home & Kitchen,216.84,3,650.52,North,COD,Not Returned
+33223af9,CUST3249,2025-01-07,Puzzle,Toys,48.9,5,244.5,East,Debit Card,Not Returned
+512ed823,CUST3328,2025-01-15,Textbook,Books,356.08,4,1424.32,South,Debit Card,Not Returned
+4ef423b4,CUST5243,2024-11-03,Textbook,Books,125.59,2,251.18,South,COD,Not Returned
+109851e1,CUST5303,2024-07-18,Headphones,Electronics,106.99,3,320.97,South,Debit Card,Not Returned
+cb53bae0,CUST4071,2024-09-07,Novel,Books,350.74,3,1052.22,West,Credit Card,Not Returned
+88b9b60b,CUST3298,2025-05-26,Comics,Books,270.48,2,540.96,South,COD,Not Returned
+7b9bc54a,CUST1727,2024-10-25,Blender,Home & Kitchen,309.55,2,619.1,South,Debit Card,Returned
+13f1f3fd,CUST4053,2024-08-09,Remote Car,Toys,481.09,3,1443.27,North,Net Banking,Not Returned
+e03bca1d,CUST5319,2024-09-27,Puzzle,Toys,498.27,4,1993.08,West,Credit Card,Not Returned
+89298a50,CUST6625,2025-07-02,Dress,Clothing,279.2,4,1116.8,West,UPI,Not Returned
+e0da1f4d,CUST5503,2024-11-24,Puzzle,Toys,279.73,4,1118.92,North,COD,Not Returned
+bddb55c8,CUST7800,2024-11-27,Tablet,Electronics,417.8,4,1671.2,West,Credit Card,Not Returned
+16d69574,CUST8825,2024-09-19,Jeans,Clothing,388.64,4,1554.56,West,COD,Not Returned
+2e27958d,CUST5955,2024-07-19,Remote Car,Toys,399.2,3,1197.6,East,Credit Card,Not Returned
+94c79ed3,CUST2752,2025-06-18,T-Shirt,Clothing,254.05,4,1016.2,North,Net Banking,Not Returned
+9a3b0794,CUST9229,2024-07-16,Building Blocks,Toys,25.46,3,76.38,North,Credit Card,Not Returned
+8f6fc742,CUST3498,2024-12-31,Remote Car,Toys,63.44,5,317.2,South,COD,Not Returned
+de51f97d,CUST8145,2024-11-14,Vacuum Cleaner,Home & Kitchen,401.84,5,2009.2,East,UPI,Not Returned
+1a0a434e,CUST8865,2024-12-22,Tablet,Electronics,303.07,4,1212.28,North,Credit Card,Not Returned
+8209bbfe,CUST3817,2025-05-15,Vacuum Cleaner,Home & Kitchen,443.23,3,1329.69,North,COD,Not Returned
+d081f573,CUST7593,2024-09-24,Building Blocks,Toys,82.15,1,82.15,North,UPI,Not Returned
+d194a689,CUST6471,2025-02-03,Remote Car,Toys,165.82,5,829.1,North,Credit Card,Returned
+e824a37a,CUST6749,2025-06-23,Comics,Books,94.98,5,474.9,South,UPI,Not Returned
+a3d3e16e,CUST8172,2025-07-09,Textbook,Books,371.95,5,1859.75,North,Debit Card,Not Returned
+01fb4f93,CUST8496,2025-03-20,Building Blocks,Toys,27.91,5,139.55,West,Debit Card,Not Returned
+f9af981e,CUST7139,2024-11-28,Cookware Set,Home & Kitchen,490.11,5,2450.55,East,Credit Card,Not Returned
+50d4bb21,CUST6525,2024-09-02,Blender,Home & Kitchen,497.17,2,994.34,South,Debit Card,Not Returned
+78fbfbee,CUST1667,2024-10-16,Textbook,Books,169.65,1,169.65,East,UPI,Returned
+4cc6e005,CUST4470,2024-08-17,Novel,Books,33.3,4,133.2,South,Debit Card,Not Returned
+9008c856,CUST5332,2024-11-19,Jeans,Clothing,106.84,4,427.36,East,COD,Not Returned
+a1a55c9d,CUST7970,2024-10-02,Headphones,Electronics,409.43,2,818.86,North,Net Banking,Returned
+f0d79478,CUST3841,2025-04-16,Laptop,Electronics,353.95,5,1769.75,East,Net Banking,Not Returned
+21dabe13,CUST8781,2025-07-11,Vacuum Cleaner,Home & Kitchen,335.45,3,1006.35,West,Net Banking,Not Returned
+a5adb26b,CUST9152,2024-12-20,Building Blocks,Toys,274.5,3,823.5,East,COD,Not Returned
+42c244ea,CUST2886,2024-09-21,Laptop,Electronics,70.94,5,354.7,East,COD,Not Returned
+1b3804a7,CUST7173,2025-04-16,Building Blocks,Toys,330.17,1,330.17,East,COD,Not Returned
+15675931,CUST7354,2025-02-28,Headphones,Electronics,145.65,2,291.3,West,UPI,Not Returned
+f17315c4,CUST6931,2025-06-09,Smartphone,Electronics,222.61,5,1113.05,North,Credit Card,Not Returned
+195d08f4,CUST3416,2025-03-07,Vacuum Cleaner,Home & Kitchen,420.53,2,841.06,East,Net Banking,Not Returned
+9cdb1c66,CUST1086,2025-04-01,Novel,Books,329.54,1,329.54,East,UPI,Not Returned
+d7245e6b,CUST2021,2024-12-08,Comics,Books,382.15,2,764.3,South,UPI,Returned
+0a4188e9,CUST2347,2025-02-23,T-Shirt,Clothing,358.89,4,1435.56,East,Net Banking,Not Returned
+493f0c21,CUST5700,2025-02-22,Biography,Books,162.83,3,488.49,South,Credit Card,Not Returned
+d6347144,CUST5105,2025-06-29,Comics,Books,135.26,2,270.52,East,Credit Card,Not Returned
+bb71cc13,CUST3671,2024-09-13,Doll,Toys,243.5,2,487.0,East,Debit Card,Not Returned
+e52ee313,CUST4361,2024-12-06,Textbook,Books,60.29,4,241.16,North,COD,Not Returned
+2e5ac271,CUST7166,2024-07-29,Novel,Books,133.6,2,267.2,South,Debit Card,Not Returned
+7e1a506c,CUST2703,2025-06-02,Dress,Clothing,56.55,1,56.55,West,Credit Card,Not Returned
+71b50451,CUST3348,2024-10-19,Jacket,Clothing,204.2,2,408.4,North,COD,Returned
+eefda8c3,CUST4777,2025-03-24,Smartphone,Electronics,426.6,3,1279.8,East,Credit Card,Not Returned
+047a0724,CUST1744,2025-04-10,Dress,Clothing,450.54,2,901.08,West,UPI,Not Returned
+f448fb46,CUST8830,2024-12-15,Remote Car,Toys,301.07,2,602.14,West,Credit Card,Not Returned
+3c8264b4,CUST6844,2024-09-20,Cookware Set,Home & Kitchen,103.28,5,516.4,East,COD,Not Returned
+a7352c1a,CUST8842,2025-04-01,Cookware Set,Home & Kitchen,429.4,2,858.8,South,Net Banking,Not Returned
+f2200531,CUST8650,2025-05-08,Cookware Set,Home & Kitchen,55.33,2,110.66,North,Credit Card,Not Returned
+da06f968,CUST5127,2025-03-18,Vacuum Cleaner,Home & Kitchen,23.4,4,93.6,East,COD,Not Returned
+f1978f0a,CUST8527,2024-09-05,Cookware Set,Home & Kitchen,64.92,5,324.6,South,UPI,Not Returned
+ad221045,CUST8961,2025-01-15,T-Shirt,Clothing,481.2,5,2406.0,South,COD,Not Returned
+047037f2,CUST3017,2025-05-06,Cookware Set,Home & Kitchen,480.23,3,1440.69,West,Net Banking,Not Returned
+ccdb4e0d,CUST8901,2025-02-07,Doll,Toys,39.76,1,39.76,North,COD,Not Returned
+4529bb33,CUST9769,2024-11-27,Desk Lamp,Home & Kitchen,202.03,5,1010.15,West,Debit Card,Returned
+1e08ef45,CUST2287,2024-09-15,Comics,Books,108.34,4,433.36,South,COD,Not Returned
+d7d61bf8,CUST3635,2025-02-08,Jacket,Clothing,15.11,2,30.22,South,Debit Card,Not Returned
+fe2cadd1,CUST5749,2025-03-23,T-Shirt,Clothing,54.89,1,54.89,North,Credit Card,Not Returned
+3ce9e2d6,CUST7671,2025-01-14,Comics,Books,383.98,3,1151.94,East,COD,Not Returned
+28561c3b,CUST7572,2024-08-26,Vacuum Cleaner,Home & Kitchen,235.26,4,941.04,North,COD,Not Returned
+4039cd44,CUST9172,2025-01-13,Textbook,Books,225.43,5,1127.15,East,Credit Card,Not Returned
+09dd2fce,CUST2642,2025-04-28,T-Shirt,Clothing,297.49,1,297.49,East,Credit Card,Not Returned
+36a24d12,CUST9266,2025-06-23,Blender,Home & Kitchen,177.93,4,711.72,West,Credit Card,Not Returned
+2af06bbf,CUST7697,2024-11-18,Smartphone,Electronics,346.0,2,692.0,East,Debit Card,Returned
+945b8a04,CUST7108,2024-11-24,T-Shirt,Clothing,332.94,4,1331.76,North,Credit Card,Not Returned
+dd50359f,CUST1530,2025-03-02,Laptop,Electronics,42.4,4,169.6,East,COD,Not Returned
+7cf3fc23,CUST2174,2024-12-14,Vacuum Cleaner,Home & Kitchen,436.84,1,436.84,North,UPI,Not Returned
+0d15955b,CUST2755,2024-09-15,Vacuum Cleaner,Home & Kitchen,175.77,3,527.31,North,COD,Not Returned
+231e41eb,CUST1984,2025-02-01,Blender,Home & Kitchen,297.69,2,595.38,South,UPI,Not Returned
+bb17408a,CUST3329,2024-07-23,Remote Car,Toys,86.52,4,346.08,East,Debit Card,Not Returned
+98caf080,CUST4080,2025-04-15,Tablet,Electronics,213.13,5,1065.65,North,COD,Not Returned
+e1a1b16a,CUST9934,2025-05-25,Building Blocks,Toys,439.05,1,439.05,East,Debit Card,Not Returned
+98948280,CUST3182,2024-09-25,Biography,Books,326.75,3,980.25,South,COD,Not Returned
+195dc48b,CUST3894,2024-09-15,Biography,Books,120.28,4,481.12,East,COD,Not Returned
+8405e91f,CUST7833,2025-01-15,Dress,Clothing,446.52,4,1786.08,North,Debit Card,Not Returned
+b8c018ef,CUST5130,2024-07-23,Jacket,Clothing,239.28,5,1196.4,North,Debit Card,Returned
+03acf6c6,CUST9784,2025-06-13,Smartphone,Electronics,150.7,1,150.7,West,Debit Card,Not Returned
+b560480e,CUST2273,2024-08-30,Vacuum Cleaner,Home & Kitchen,133.78,3,401.34,South,Net Banking,Not Returned
+6f5169d4,CUST8265,2024-10-24,Dress,Clothing,200.12,2,400.24,East,Credit Card,Not Returned
+22787f72,CUST2717,2025-01-06,Building Blocks,Toys,165.68,3,497.04,North,UPI,Not Returned
+19425488,CUST6522,2024-12-07,Puzzle,Toys,414.63,4,1658.52,North,COD,Not Returned
+e1abe81c,CUST1151,2025-02-19,Textbook,Books,207.49,4,829.96,East,COD,Returned
+ac940804,CUST2134,2025-04-11,Jacket,Clothing,147.23,4,588.92,East,UPI,Not Returned
+ec41651c,CUST8358,2024-10-20,Doll,Toys,154.81,2,309.62,East,Net Banking,Not Returned
+b3093bab,CUST4862,2025-02-10,Doll,Toys,43.18,5,215.9,North,UPI,Not Returned
+c9bc537d,CUST4011,2025-02-11,Blender,Home & Kitchen,484.74,4,1938.96,West,COD,Not Returned
+d2cb753e,CUST2457,2024-11-23,Building Blocks,Toys,167.02,2,334.04,South,UPI,Not Returned
+59e20ff1,CUST2921,2024-11-03,Laptop,Electronics,456.29,5,2281.45,North,Debit Card,Not Returned
+079cd519,CUST7030,2025-06-12,Textbook,Books,52.37,4,209.48,South,COD,Not Returned
+549674be,CUST3516,2024-08-12,Novel,Books,172.67,5,863.35,North,UPI,Not Returned
+1ce7a14c,CUST6018,2024-12-13,T-Shirt,Clothing,95.69,3,287.07,West,UPI,Not Returned
+525c7ab3,CUST4534,2025-03-08,Cookware Set,Home & Kitchen,74.16,4,296.64,North,COD,Not Returned
+6c8b3c89,CUST1856,2024-09-10,Vacuum Cleaner,Home & Kitchen,340.2,2,680.4,North,COD,Not Returned
+6e7b4e8c,CUST3587,2024-07-29,Blender,Home & Kitchen,200.5,3,601.5,North,Debit Card,Not Returned
+7bb45770,CUST7845,2025-06-10,Blender,Home & Kitchen,68.44,4,273.76,South,Net Banking,Not Returned
+ce66ce4e,CUST7037,2024-11-26,Jacket,Clothing,461.31,1,461.31,North,COD,Not Returned
+2c4df456,CUST4077,2024-11-01,Tablet,Electronics,201.19,1,201.19,South,Credit Card,Not Returned
+44767306,CUST3342,2025-01-06,Biography,Books,237.05,1,237.05,South,UPI,Not Returned
+fbb161ce,CUST3478,2024-07-29,Doll,Toys,420.1,5,2100.5,North,COD,Not Returned
+efdcb26b,CUST8235,2024-11-12,Cookware Set,Home & Kitchen,154.0,5,770.0,West,COD,Not Returned
+89ab614c,CUST8444,2025-04-09,Vacuum Cleaner,Home & Kitchen,153.65,4,614.6,North,COD,Not Returned
+28e29d02,CUST6588,2025-06-17,Jeans,Clothing,160.07,2,320.14,West,Credit Card,Not Returned
+8e2dbc08,CUST8301,2024-10-04,Laptop,Electronics,80.69,5,403.45,South,Debit Card,Not Returned
+48177d1c,CUST4439,2025-04-29,Tablet,Electronics,71.17,5,355.85,North,Net Banking,Returned
+782cb0dd,CUST2364,2025-04-20,Desk Lamp,Home & Kitchen,266.43,2,532.86,North,COD,Not Returned
+7c1a5090,CUST4914,2024-11-29,Puzzle,Toys,293.13,4,1172.52,East,Credit Card,Not Returned
+8c969f78,CUST7272,2024-11-27,Biography,Books,414.2,1,414.2,West,Credit Card,Not Returned
+2e45659a,CUST9525,2024-09-30,Biography,Books,73.18,5,365.9,East,COD,Not Returned
+a7097b83,CUST2042,2025-03-18,Vacuum Cleaner,Home & Kitchen,59.9,1,59.9,South,Credit Card,Not Returned
+9627e182,CUST9802,2024-08-30,Dress,Clothing,263.16,5,1315.8,North,Debit Card,Not Returned
+7d00568b,CUST1121,2025-06-08,Comics,Books,270.02,4,1080.08,South,Debit Card,Not Returned
+d7405c16,CUST8530,2025-02-16,Headphones,Electronics,394.43,4,1577.72,West,Credit Card,Not Returned
+b0d90280,CUST9726,2024-07-15,Desk Lamp,Home & Kitchen,270.98,5,1354.9,West,Credit Card,Not Returned
+5313dadd,CUST3511,2024-12-04,Blender,Home & Kitchen,422.57,3,1267.71,East,UPI,Not Returned
+fd476105,CUST9134,2024-09-17,Tablet,Electronics,57.14,1,57.14,West,Net Banking,Returned
+db8d65e8,CUST1960,2025-05-31,Jacket,Clothing,300.1,5,1500.5,East,Debit Card,Not Returned
+88c3fa3c,CUST4718,2025-01-12,Cookware Set,Home & Kitchen,325.55,4,1302.2,South,Debit Card,Not Returned
+44af0f08,CUST3505,2024-12-05,Cookware Set,Home & Kitchen,268.25,1,268.25,South,Credit Card,Not Returned
+6d84ba11,CUST8440,2024-08-22,Building Blocks,Toys,121.85,2,243.7,South,COD,Not Returned
+d3e91498,CUST2221,2025-02-23,Tablet,Electronics,71.57,2,143.14,East,Net Banking,Not Returned
+67be51e0,CUST3936,2025-01-10,Vacuum Cleaner,Home & Kitchen,430.34,2,860.68,East,UPI,Not Returned
+d0be62a3,CUST6387,2025-01-19,Headphones,Electronics,355.46,1,355.46,East,UPI,Not Returned
+feb67679,CUST3779,2025-03-30,Comics,Books,119.49,2,238.98,West,Credit Card,Not Returned
+4c7a2a16,CUST1940,2025-05-18,Headphones,Electronics,153.62,3,460.86,South,Credit Card,Not Returned
+cc747f27,CUST3202,2025-01-27,Vacuum Cleaner,Home & Kitchen,152.03,5,760.15,West,UPI,Not Returned
+8cef1212,CUST8897,2024-07-31,Smartphone,Electronics,150.75,3,452.25,East,Credit Card,Not Returned
+24e804e9,CUST7233,2025-05-19,Doll,Toys,402.54,2,805.08,South,Credit Card,Not Returned
+8aa1d148,CUST9366,2025-05-17,Tablet,Electronics,427.43,3,1282.29,North,UPI,Not Returned
+4d63ddaa,CUST3848,2025-07-09,Blender,Home & Kitchen,135.56,5,677.8,North,COD,Not Returned
+86e6a009,CUST4413,2024-08-18,Comics,Books,354.76,1,354.76,West,Net Banking,Not Returned
+372582f2,CUST8071,2024-12-14,Tablet,Electronics,263.42,1,263.42,South,Debit Card,Not Returned
+6796dfc7,CUST8689,2025-03-03,Tablet,Electronics,278.01,3,834.03,North,Net Banking,Not Returned
+b8a733c9,CUST9275,2024-11-25,Building Blocks,Toys,357.77,4,1431.08,West,Net Banking,Not Returned
+e8b468da,CUST4018,2025-05-23,T-Shirt,Clothing,422.91,5,2114.55,North,Net Banking,Not Returned
+0faa0c49,CUST9328,2024-09-07,Headphones,Electronics,70.42,1,70.42,South,UPI,Not Returned
+313d671d,CUST2930,2025-05-14,T-Shirt,Clothing,465.38,2,930.76,West,Net Banking,Not Returned
+88762eb2,CUST1898,2025-07-13,Novel,Books,483.69,2,967.38,South,Net Banking,Not Returned
+b5f4cd3c,CUST3442,2025-05-17,Vacuum Cleaner,Home & Kitchen,253.81,2,507.62,East,Net Banking,Not Returned
+497a0d61,CUST3191,2024-10-07,Biography,Books,278.82,5,1394.1,West,Net Banking,Not Returned
+6cc29d20,CUST1115,2025-04-05,Headphones,Electronics,179.84,5,899.2,South,Credit Card,Not Returned
+0fd53763,CUST6314,2025-02-14,Biography,Books,262.33,5,1311.65,West,COD,Not Returned
+17c25bdf,CUST2842,2025-05-27,Jeans,Clothing,367.03,3,1101.09,North,UPI,Not Returned
+0769f6ad,CUST9263,2024-11-25,Novel,Books,453.85,3,1361.55,West,Net Banking,Not Returned
+5183e30c,CUST5950,2025-02-12,Textbook,Books,148.05,1,148.05,East,Net Banking,Not Returned
+1ea74e1b,CUST5579,2024-08-27,Jacket,Clothing,281.95,5,1409.75,North,UPI,Returned
+b977aed1,CUST7991,2024-12-27,Comics,Books,235.75,3,707.25,West,Debit Card,Not Returned
+0c45caa4,CUST1491,2025-02-15,Dress,Clothing,431.58,5,2157.9,East,Debit Card,Not Returned
+08464b5a,CUST8181,2025-02-04,Biography,Books,100.31,4,401.24,North,Debit Card,Not Returned
+502636d0,CUST9508,2025-01-06,Biography,Books,338.61,5,1693.05,South,UPI,Not Returned
+36deca94,CUST8437,2024-10-13,T-Shirt,Clothing,107.17,2,214.34,East,Debit Card,Not Returned
+8d193d0e,CUST1072,2025-01-29,Doll,Toys,277.85,3,833.55,North,COD,Not Returned
+8146e060,CUST9214,2025-06-18,Doll,Toys,413.34,2,826.68,East,COD,Not Returned
+3212ef55,CUST9331,2025-04-19,Dress,Clothing,190.37,4,761.48,East,Credit Card,Not Returned
+e528ebc2,CUST2566,2024-12-04,Dress,Clothing,339.03,5,1695.15,South,Net Banking,Returned
+7c3357c9,CUST6263,2025-07-07,Desk Lamp,Home & Kitchen,134.83,1,134.83,East,Net Banking,Not Returned
+b3c6c27f,CUST1600,2025-05-08,Vacuum Cleaner,Home & Kitchen,20.18,4,80.72,North,Net Banking,Not Returned
+47c117d9,CUST3006,2025-04-13,T-Shirt,Clothing,37.06,1,37.06,East,COD,Not Returned
+256d41df,CUST9680,2025-03-05,Textbook,Books,29.4,5,147.0,East,Debit Card,Not Returned
+b0787bdb,CUST8990,2024-12-12,Dress,Clothing,195.39,3,586.17,West,Credit Card,Not Returned
+e4e6124e,CUST1636,2025-04-29,Textbook,Books,298.51,3,895.53,West,COD,Not Returned
+b353e3c4,CUST7580,2025-02-23,Comics,Books,431.2,3,1293.6,South,Net Banking,Not Returned
+431704b5,CUST8632,2024-11-21,Novel,Books,97.44,2,194.88,North,UPI,Not Returned
+b9a83a35,CUST8867,2025-04-12,Tablet,Electronics,169.23,4,676.92,North,Credit Card,Returned
+169e16eb,CUST9155,2024-08-09,Blender,Home & Kitchen,431.71,2,863.42,East,COD,Not Returned
+4df5fff4,CUST5083,2024-09-11,Blender,Home & Kitchen,251.43,3,754.29,North,Debit Card,Not Returned
+5dd0bd67,CUST4080,2025-03-04,Doll,Toys,423.46,4,1693.84,East,UPI,Not Returned
+a972b0e8,CUST8828,2024-07-17,Dress,Clothing,310.14,4,1240.56,South,Debit Card,Not Returned
+a8883d6b,CUST6013,2024-07-18,Remote Car,Toys,211.89,4,847.56,North,Net Banking,Returned
+9a7afc94,CUST2638,2024-09-29,Tablet,Electronics,418.04,1,418.04,North,Credit Card,Not Returned
+bf0a2307,CUST8032,2025-05-25,Tablet,Electronics,410.34,3,1231.02,West,COD,Not Returned
+7b212138,CUST9218,2024-11-08,Doll,Toys,99.78,5,498.9,South,COD,Not Returned
+8207ac6e,CUST6501,2024-08-05,Puzzle,Toys,18.55,4,74.2,North,COD,Returned
+154115db,CUST1425,2024-07-24,Remote Car,Toys,424.07,4,1696.28,North,Net Banking,Not Returned
+61f19b94,CUST6882,2025-06-19,Remote Car,Toys,357.16,2,714.32,East,COD,Not Returned
+c7e7220c,CUST4442,2024-11-07,Smartphone,Electronics,374.29,4,1497.16,West,Credit Card,Not Returned
+23adf513,CUST4743,2024-12-19,Cookware Set,Home & Kitchen,238.11,4,952.44,South,Credit Card,Not Returned
+93e2af40,CUST9339,2024-10-09,Desk Lamp,Home & Kitchen,60.02,5,300.1,West,UPI,Returned
+ed343a04,CUST6049,2025-04-21,Biography,Books,385.67,1,385.67,East,Credit Card,Not Returned
+a420a7b9,CUST6095,2024-08-21,Puzzle,Toys,74.84,1,74.84,East,Credit Card,Not Returned
+4f77b943,CUST6735,2025-03-31,Dress,Clothing,79.75,4,319.0,West,Debit Card,Not Returned
+360e83f0,CUST3122,2025-07-02,T-Shirt,Clothing,355.16,2,710.32,East,Debit Card,Not Returned
+32b501ac,CUST4936,2025-06-28,Vacuum Cleaner,Home & Kitchen,43.51,1,43.51,North,Debit Card,Not Returned
+6fe2153d,CUST7640,2024-12-14,Tablet,Electronics,344.03,5,1720.15,West,Net Banking,Not Returned
+338316c8,CUST2220,2025-03-19,Laptop,Electronics,214.02,2,428.04,West,COD,Not Returned
+2e18b50c,CUST6231,2024-09-09,Building Blocks,Toys,358.68,3,1076.04,North,Debit Card,Not Returned
+f38df356,CUST6539,2025-07-04,Laptop,Electronics,314.48,1,314.48,North,COD,Not Returned
+f1716ca5,CUST4426,2024-11-26,Blender,Home & Kitchen,339.71,4,1358.84,East,Net Banking,Not Returned
+58417d5e,CUST4269,2025-06-17,Smartphone,Electronics,348.45,5,1742.25,East,Debit Card,Not Returned
+16a38a52,CUST4898,2025-01-14,Cookware Set,Home & Kitchen,355.2,5,1776.0,East,UPI,Not Returned
+3a3ceeff,CUST6391,2025-06-08,Doll,Toys,483.22,4,1932.88,West,UPI,Not Returned
+b5d6cb9d,CUST8830,2025-05-12,Comics,Books,252.74,3,758.22,North,Net Banking,Not Returned
+2680e495,CUST4861,2025-05-05,Puzzle,Toys,271.63,1,271.63,North,COD,Not Returned
+8afe4406,CUST4074,2025-04-19,Tablet,Electronics,482.33,5,2411.65,West,Credit Card,Not Returned
+91fa9d90,CUST1680,2025-05-30,Biography,Books,31.37,2,62.74,West,UPI,Not Returned
+de9d30aa,CUST5947,2024-08-25,Cookware Set,Home & Kitchen,436.81,1,436.81,North,Net Banking,Not Returned
+3e9cac88,CUST9768,2025-04-27,Building Blocks,Toys,142.36,4,569.44,South,Credit Card,Not Returned
+70b9a580,CUST9215,2024-08-15,Jeans,Clothing,177.14,5,885.7,South,Credit Card,Not Returned
+d708548d,CUST7637,2024-11-20,Novel,Books,49.3,1,49.3,East,UPI,Not Returned
+db0d9333,CUST9055,2025-03-07,Headphones,Electronics,274.6,2,549.2,East,Net Banking,Not Returned
+377ffa33,CUST1282,2024-10-12,Jeans,Clothing,16.91,1,16.91,East,Debit Card,Returned
+28d4890e,CUST2285,2024-11-03,Doll,Toys,54.61,4,218.44,South,UPI,Not Returned
+56103bef,CUST9936,2024-08-12,Jacket,Clothing,37.36,5,186.8,South,UPI,Not Returned
+e4d9eb11,CUST9725,2025-01-18,Vacuum Cleaner,Home & Kitchen,104.05,3,312.15,South,Debit Card,Not Returned
+acc6486d,CUST3720,2024-11-09,Dress,Clothing,327.93,2,655.86,South,Net Banking,Returned
+79543a4f,CUST7292,2025-06-25,Laptop,Electronics,275.01,1,275.01,South,Credit Card,Not Returned
+bd0a101d,CUST2055,2025-07-12,Smartphone,Electronics,102.71,3,308.13,West,COD,Not Returned
+ef36ca85,CUST1669,2024-10-28,Jacket,Clothing,437.77,1,437.77,South,Debit Card,Not Returned
+b4e0e77f,CUST2461,2025-01-01,Vacuum Cleaner,Home & Kitchen,127.81,4,511.24,West,Credit Card,Not Returned
+31cdefb1,CUST3827,2025-05-07,T-Shirt,Clothing,279.13,5,1395.65,North,Credit Card,Not Returned
+a0270c4e,CUST2030,2024-09-09,Blender,Home & Kitchen,421.73,2,843.46,East,Debit Card,Not Returned
+f63f1333,CUST2828,2024-09-12,Vacuum Cleaner,Home & Kitchen,221.92,4,887.68,West,Net Banking,Not Returned
+76453f49,CUST5709,2025-04-17,Comics,Books,279.57,5,1397.85,West,Debit Card,Returned
+05b95d12,CUST2156,2024-09-12,T-Shirt,Clothing,388.06,3,1164.18,East,COD,Returned
+08b3bf4e,CUST2731,2025-05-17,Textbook,Books,146.03,2,292.06,East,Net Banking,Not Returned
+8225cf79,CUST8221,2024-08-19,Vacuum Cleaner,Home & Kitchen,252.9,2,505.8,South,Debit Card,Not Returned
+2bd04c8d,CUST9553,2025-02-14,Headphones,Electronics,301.41,5,1507.05,South,Credit Card,Returned
+62a023b2,CUST6900,2025-03-18,Doll,Toys,241.44,5,1207.2,South,Credit Card,Not Returned
+7f09db56,CUST9428,2024-11-16,Tablet,Electronics,445.82,5,2229.1,West,Debit Card,Not Returned
+dceb0df2,CUST5011,2025-03-07,Textbook,Books,94.06,1,94.06,North,Debit Card,Not Returned
+31091e43,CUST6863,2024-08-03,Novel,Books,353.46,5,1767.3,East,Credit Card,Not Returned
+1ace1482,CUST5740,2024-12-07,Puzzle,Toys,348.88,4,1395.52,North,UPI,Returned
+bebd225f,CUST7721,2025-03-27,Building Blocks,Toys,37.65,5,188.25,East,Net Banking,Not Returned
+7c9bff2c,CUST9124,2025-05-08,Textbook,Books,67.52,2,135.04,East,Net Banking,Not Returned
+ab2123b3,CUST1844,2025-01-21,Doll,Toys,462.95,5,2314.75,North,Debit Card,Returned
+8cd61ca6,CUST9728,2024-08-10,Desk Lamp,Home & Kitchen,115.53,1,115.53,South,Credit Card,Not Returned
+3c568355,CUST8241,2024-09-18,Doll,Toys,157.41,3,472.23,West,COD,Not Returned
+33b7a819,CUST4818,2025-01-29,Cookware Set,Home & Kitchen,307.36,3,922.08,East,Credit Card,Not Returned
+1289c11e,CUST8076,2024-12-28,Laptop,Electronics,178.86,1,178.86,West,Debit Card,Not Returned
+8bf00b51,CUST9769,2024-12-07,Headphones,Electronics,410.55,5,2052.75,West,Credit Card,Not Returned
+db3ba2db,CUST2637,2024-10-25,Doll,Toys,257.89,5,1289.45,South,Credit Card,Not Returned
+e2649cd4,CUST3575,2024-10-04,Headphones,Electronics,392.71,4,1570.84,West,UPI,Not Returned
+72fac4dd,CUST6520,2024-12-20,T-Shirt,Clothing,196.26,3,588.78,South,UPI,Not Returned
+a1bb4b2f,CUST3347,2025-05-13,Vacuum Cleaner,Home & Kitchen,249.73,4,998.92,North,UPI,Not Returned
+5890bbab,CUST4575,2025-06-26,Textbook,Books,36.79,4,147.16,South,UPI,Not Returned
+8adca4fe,CUST1344,2024-10-16,Puzzle,Toys,123.78,1,123.78,West,Credit Card,Not Returned
+378bf631,CUST5294,2024-11-29,Comics,Books,189.95,4,759.8,North,UPI,Not Returned
+44821ace,CUST5369,2024-09-22,Headphones,Electronics,97.89,4,391.56,East,UPI,Not Returned
+fea33426,CUST9231,2024-12-23,T-Shirt,Clothing,161.25,2,322.5,South,Debit Card,Not Returned
+1888a326,CUST5307,2024-12-08,Desk Lamp,Home & Kitchen,339.12,3,1017.36,East,Credit Card,Not Returned
+f77267c9,CUST5096,2024-07-15,Desk Lamp,Home & Kitchen,57.68,2,115.36,West,COD,Not Returned
+fe1939f1,CUST6198,2024-11-27,Doll,Toys,259.85,5,1299.25,East,Debit Card,Not Returned
+4ee2e37b,CUST5320,2024-11-20,Blender,Home & Kitchen,328.07,5,1640.35,West,COD,Returned
+6e280705,CUST8827,2025-02-03,Smartphone,Electronics,285.1,2,570.2,South,Debit Card,Not Returned
+82a480f5,CUST8534,2024-08-17,Textbook,Books,205.71,1,205.71,South,UPI,Not Returned
+3917b883,CUST7060,2024-12-05,Novel,Books,285.01,2,570.02,East,Debit Card,Not Returned
+5f153893,CUST6880,2025-01-13,Novel,Books,176.43,1,176.43,West,Debit Card,Not Returned
+d7aba9e5,CUST3677,2025-04-06,Tablet,Electronics,396.92,4,1587.68,West,Credit Card,Not Returned
+c31074bd,CUST5642,2024-07-19,Novel,Books,328.21,3,984.63,North,Net Banking,Not Returned
+364ba078,CUST9319,2024-10-31,Vacuum Cleaner,Home & Kitchen,370.63,5,1853.15,North,UPI,Not Returned
+ebc9d0ae,CUST1754,2024-12-30,Biography,Books,329.7,2,659.4,North,Credit Card,Not Returned
+92b07850,CUST8443,2024-07-15,Puzzle,Toys,137.4,3,412.2,South,Net Banking,Not Returned
+101be2e8,CUST1627,2025-01-25,Jacket,Clothing,51.02,2,102.04,North,COD,Returned
+f6deb294,CUST7478,2025-05-22,Puzzle,Toys,220.36,3,661.08,East,Credit Card,Not Returned
+9c3b45f3,CUST5355,2024-11-03,Remote Car,Toys,383.2,4,1532.8,East,Credit Card,Not Returned
+db06411e,CUST4083,2025-01-23,Remote Car,Toys,495.59,1,495.59,East,Net Banking,Returned
+8a6ebf5d,CUST9317,2024-11-21,Cookware Set,Home & Kitchen,32.58,2,65.16,South,Debit Card,Not Returned
+420c581e,CUST7891,2024-09-27,Remote Car,Toys,135.14,1,135.14,West,Credit Card,Returned
+1bdb3e07,CUST1372,2025-05-17,Doll,Toys,386.26,4,1545.04,North,COD,Not Returned
+28d2154d,CUST2208,2024-12-10,Novel,Books,257.81,4,1031.24,North,UPI,Not Returned
+f87cb484,CUST4639,2024-10-11,Cookware Set,Home & Kitchen,491.67,2,983.34,West,Credit Card,Not Returned
+7134a156,CUST4581,2024-08-14,Cookware Set,Home & Kitchen,409.73,5,2048.65,West,COD,Not Returned
+70d91c53,CUST1499,2025-07-02,Laptop,Electronics,127.71,1,127.71,South,UPI,Not Returned
+e5dd19c0,CUST1195,2025-05-03,Textbook,Books,386.59,1,386.59,East,Debit Card,Not Returned
+71b698e7,CUST4523,2024-10-04,Novel,Books,387.81,4,1551.24,North,Debit Card,Not Returned
+5ca2a391,CUST5829,2024-07-30,Doll,Toys,486.28,2,972.56,North,Credit Card,Returned
+c59d058f,CUST5696,2024-11-01,Laptop,Electronics,493.75,4,1975.0,North,Debit Card,Not Returned
+bd38bcbc,CUST8679,2025-01-16,Puzzle,Toys,99.25,2,198.5,South,Credit Card,Not Returned
+790cd153,CUST7907,2025-04-14,Desk Lamp,Home & Kitchen,432.89,2,865.78,East,COD,Not Returned
+933c6b85,CUST4065,2024-11-05,Vacuum Cleaner,Home & Kitchen,474.54,5,2372.7,East,COD,Not Returned
+9c20309d,CUST1916,2024-12-21,T-Shirt,Clothing,453.03,1,453.03,North,Credit Card,Not Returned
+a73cbee0,CUST4822,2025-02-13,Smartphone,Electronics,171.52,1,171.52,West,Debit Card,Not Returned
+42316e72,CUST9997,2025-02-02,Doll,Toys,21.2,3,63.6,East,COD,Not Returned
+7feb474d,CUST5942,2024-08-09,Headphones,Electronics,415.12,1,415.12,East,Credit Card,Not Returned
+25d1a2e8,CUST7718,2025-01-13,Remote Car,Toys,21.35,1,21.35,South,Debit Card,Not Returned
+7b374564,CUST8956,2024-10-22,Building Blocks,Toys,445.91,5,2229.55,South,UPI,Not Returned
+a9e5f96c,CUST4885,2025-06-06,Cookware Set,Home & Kitchen,231.53,5,1157.65,East,Credit Card,Not Returned
+994120c1,CUST7422,2025-01-09,Novel,Books,73.95,2,147.9,East,COD,Returned
+ff5be5b1,CUST4030,2024-12-31,Blender,Home & Kitchen,235.32,4,941.28,East,Credit Card,Not Returned
+dd6ef1fc,CUST9707,2024-11-05,Headphones,Electronics,449.81,3,1349.43,South,UPI,Not Returned
+059c7174,CUST9306,2025-01-28,Puzzle,Toys,387.79,4,1551.16,West,Net Banking,Not Returned
+a60d827f,CUST9830,2025-05-04,Doll,Toys,450.16,3,1350.48,East,Credit Card,Not Returned
+be447abc,CUST8220,2024-09-20,Tablet,Electronics,159.76,1,159.76,West,COD,Not Returned
+d27ddb4f,CUST2557,2025-05-07,Headphones,Electronics,411.27,2,822.54,North,Credit Card,Not Returned
+2460e566,CUST4994,2024-08-08,Tablet,Electronics,229.14,5,1145.7,South,Net Banking,Not Returned
+96636dbc,CUST4132,2024-08-23,Comics,Books,262.45,4,1049.8,South,UPI,Not Returned
+7efda3c5,CUST2310,2025-04-05,Doll,Toys,210.98,1,210.98,West,UPI,Not Returned
+0fa88ca4,CUST5730,2024-12-15,Smartphone,Electronics,210.12,4,840.48,South,Debit Card,Not Returned
+60d7817a,CUST4863,2025-05-16,Jeans,Clothing,444.1,1,444.1,North,COD,Not Returned
+43d34585,CUST9285,2025-05-29,Biography,Books,77.05,1,77.05,South,COD,Not Returned
+dca316b9,CUST4076,2025-06-13,Textbook,Books,439.14,2,878.28,East,UPI,Not Returned
+7a57644d,CUST9103,2024-07-29,Textbook,Books,485.62,1,485.62,South,Net Banking,Not Returned
+1d4d8fca,CUST5033,2025-02-23,Blender,Home & Kitchen,358.68,3,1076.04,West,Net Banking,Not Returned
+2ae74411,CUST7333,2025-01-21,Puzzle,Toys,400.16,1,400.16,East,Net Banking,Not Returned
+d0932e5f,CUST9264,2025-01-25,Remote Car,Toys,169.86,4,679.44,East,Credit Card,Not Returned
+77ea36eb,CUST5583,2025-01-14,Vacuum Cleaner,Home & Kitchen,400.33,5,2001.65,North,UPI,Not Returned
+8577cd1b,CUST1527,2024-07-22,Textbook,Books,225.73,4,902.92,East,UPI,Not Returned
+6c749f02,CUST1997,2024-12-12,Puzzle,Toys,157.63,2,315.26,West,COD,Not Returned
+a8c12b68,CUST2764,2024-10-29,Smartphone,Electronics,237.81,4,951.24,West,Debit Card,Not Returned
+b6640695,CUST6809,2025-03-31,Tablet,Electronics,14.56,5,72.8,East,Debit Card,Not Returned
+9089ce3a,CUST3094,2025-03-23,Comics,Books,326.74,1,326.74,East,COD,Not Returned
+bd813599,CUST4343,2024-12-30,Textbook,Books,376.22,2,752.44,East,COD,Not Returned
+3e67c512,CUST2459,2024-11-30,Novel,Books,123.47,4,493.88,South,Net Banking,Not Returned
+bdb1d3b5,CUST4080,2024-11-19,Building Blocks,Toys,198.57,2,397.14,North,Net Banking,Not Returned
+b779e615,CUST9225,2025-03-15,Building Blocks,Toys,61.78,1,61.78,West,COD,Not Returned
+6c17e918,CUST6174,2025-04-28,Doll,Toys,12.74,5,63.7,South,Net Banking,Not Returned
+d766b984,CUST2424,2025-01-20,Doll,Toys,39.35,4,157.4,East,Debit Card,Not Returned
+34ae746a,CUST2963,2025-07-10,Building Blocks,Toys,320.44,3,961.32,South,Debit Card,Not Returned
+1f8d650b,CUST7318,2024-09-22,Tablet,Electronics,79.63,1,79.63,West,COD,Not Returned
+b08cc346,CUST8223,2025-07-11,Novel,Books,376.45,4,1505.8,West,COD,Not Returned
+fbf510ad,CUST3408,2024-11-21,Doll,Toys,158.36,3,475.08,West,COD,Not Returned
+cb726cdf,CUST4895,2025-04-22,Building Blocks,Toys,97.75,2,195.5,South,COD,Not Returned
+721ca2ce,CUST6610,2024-09-24,Headphones,Electronics,418.98,3,1256.94,North,COD,Not Returned
+ff7db6f5,CUST2576,2025-03-13,Vacuum Cleaner,Home & Kitchen,319.51,2,639.02,East,UPI,Returned
+bd694768,CUST2680,2024-11-15,Laptop,Electronics,374.41,2,748.82,West,Net Banking,Not Returned
+1e40b8aa,CUST9931,2024-10-08,Remote Car,Toys,334.35,2,668.7,West,Debit Card,Not Returned
+59b7b6af,CUST4493,2024-07-23,Smartphone,Electronics,264.7,1,264.7,East,Credit Card,Not Returned
+9791fbed,CUST5107,2024-12-12,Jeans,Clothing,120.79,1,120.79,South,Credit Card,Not Returned
+1bdd8b96,CUST1853,2025-01-11,T-Shirt,Clothing,233.34,3,700.02,North,Net Banking,Not Returned
+ac6587eb,CUST4623,2025-02-05,Vacuum Cleaner,Home & Kitchen,138.61,1,138.61,South,Debit Card,Not Returned
+c8e0d620,CUST9615,2024-12-25,Smartphone,Electronics,378.97,3,1136.91,West,UPI,Not Returned
+2916b47a,CUST9437,2024-11-01,Vacuum Cleaner,Home & Kitchen,168.46,4,673.84,South,COD,Not Returned
+b6ee45bb,CUST8059,2025-01-01,Laptop,Electronics,220.19,2,440.38,North,Credit Card,Not Returned
+0ffbea52,CUST5811,2024-08-06,Vacuum Cleaner,Home & Kitchen,345.35,1,345.35,East,Credit Card,Not Returned
+63a7b720,CUST3850,2024-12-16,Puzzle,Toys,50.94,5,254.7,South,Net Banking,Not Returned
+faa5b99e,CUST5146,2024-07-28,Headphones,Electronics,479.45,2,958.9,South,COD,Not Returned
+acada5a7,CUST6934,2024-09-20,Smartphone,Electronics,53.0,2,106.0,North,Credit Card,Returned
+a25ccbcf,CUST8315,2025-01-20,Smartphone,Electronics,496.62,4,1986.48,East,Debit Card,Not Returned
+0739c248,CUST3565,2025-07-07,Textbook,Books,414.12,4,1656.48,South,Net Banking,Not Returned
+2e50ec1d,CUST9707,2025-07-09,Remote Car,Toys,74.8,5,374.0,West,Credit Card,Not Returned
+66323dcb,CUST3228,2025-05-11,Blender,Home & Kitchen,140.24,4,560.96,South,UPI,Not Returned
+3cd57044,CUST1869,2024-08-15,Novel,Books,427.94,4,1711.76,West,COD,Not Returned
+558e0375,CUST8864,2024-09-09,Building Blocks,Toys,162.45,1,162.45,North,Debit Card,Not Returned
+d623b117,CUST6389,2024-10-18,T-Shirt,Clothing,104.23,3,312.69,East,Credit Card,Not Returned
+ad998f3f,CUST7429,2024-09-08,Jacket,Clothing,384.21,5,1921.05,West,Net Banking,Not Returned
+5e29e85f,CUST5964,2025-01-03,T-Shirt,Clothing,481.35,3,1444.05,East,Debit Card,Not Returned
+5ef862a0,CUST2396,2024-09-19,Building Blocks,Toys,355.27,3,1065.81,South,UPI,Not Returned
+033134e4,CUST9857,2025-07-12,Comics,Books,354.43,1,354.43,East,Net Banking,Returned
+061de1aa,CUST9507,2025-06-19,Doll,Toys,361.26,5,1806.3,West,COD,Not Returned
+ab0f6f74,CUST4687,2025-06-04,Jeans,Clothing,361.25,2,722.5,North,Credit Card,Returned
+ad275397,CUST6997,2024-11-07,Blender,Home & Kitchen,235.65,4,942.6,West,Debit Card,Not Returned
+c18d0bbb,CUST5322,2025-01-30,Cookware Set,Home & Kitchen,122.42,5,612.1,East,Credit Card,Not Returned
+caed78e6,CUST9094,2024-07-27,Cookware Set,Home & Kitchen,226.12,1,226.12,South,Net Banking,Not Returned
+016c7412,CUST1751,2025-02-01,Biography,Books,277.66,2,555.32,South,COD,Not Returned
+aea9146f,CUST6402,2025-03-17,Tablet,Electronics,322.44,4,1289.76,North,UPI,Returned
+b7c1f3de,CUST9016,2025-06-04,Puzzle,Toys,44.25,2,88.5,West,Credit Card,Not Returned
+a3ae043e,CUST3163,2024-07-28,Biography,Books,74.2,2,148.4,South,COD,Not Returned
+47f5caf1,CUST3158,2025-04-07,Laptop,Electronics,344.94,4,1379.76,West,Credit Card,Returned
+41bf65c5,CUST5592,2024-12-23,Comics,Books,430.15,3,1290.45,West,COD,Not Returned
+5ed6d0b4,CUST8997,2025-04-11,Laptop,Electronics,392.04,3,1176.12,South,Credit Card,Not Returned
+fde7868d,CUST4793,2024-11-30,Textbook,Books,123.01,5,615.05,South,Credit Card,Not Returned
+b39d049e,CUST1849,2025-06-09,Jacket,Clothing,125.41,3,376.23,East,Debit Card,Not Returned
+9623d6d3,CUST1603,2024-12-26,Novel,Books,411.7,5,2058.5,North,COD,Not Returned
+4d859fcb,CUST1972,2024-07-30,Tablet,Electronics,472.64,2,945.28,North,Debit Card,Not Returned
+b4a3a890,CUST7978,2025-01-24,Textbook,Books,384.83,1,384.83,South,Net Banking,Returned
+c466de39,CUST3424,2024-11-07,Headphones,Electronics,77.84,3,233.52,East,Credit Card,Not Returned
+50541832,CUST2892,2025-04-14,Vacuum Cleaner,Home & Kitchen,29.69,2,59.38,South,Credit Card,Not Returned
+68263067,CUST4498,2024-11-08,Desk Lamp,Home & Kitchen,480.88,3,1442.64,North,UPI,Not Returned
+b800e79c,CUST3876,2025-04-09,T-Shirt,Clothing,272.81,1,272.81,East,Debit Card,Not Returned
+f95e8c04,CUST4912,2024-07-17,Remote Car,Toys,170.55,3,511.65,South,Credit Card,Not Returned
+d4808961,CUST1115,2024-12-30,Desk Lamp,Home & Kitchen,15.61,2,31.22,West,Debit Card,Not Returned
+7eb6fce2,CUST6696,2024-08-10,Doll,Toys,467.5,2,935.0,East,Credit Card,Not Returned
+5d1e64ba,CUST7446,2024-11-26,Cookware Set,Home & Kitchen,244.03,1,244.03,North,Credit Card,Not Returned
+389131c3,CUST2056,2024-09-14,Tablet,Electronics,347.84,1,347.84,South,UPI,Not Returned
+aaa5415e,CUST4753,2025-05-26,Biography,Books,214.1,5,1070.5,North,COD,Not Returned
+dcea1943,CUST1050,2024-12-08,Smartphone,Electronics,271.57,5,1357.85,East,UPI,Not Returned
+5023d83c,CUST4195,2025-02-11,Vacuum Cleaner,Home & Kitchen,472.67,3,1418.01,East,UPI,Not Returned
+d33c45c2,CUST1793,2024-08-13,Novel,Books,26.9,4,107.6,North,Credit Card,Not Returned
+7663d507,CUST2301,2025-06-07,T-Shirt,Clothing,420.47,5,2102.35,North,Net Banking,Not Returned
+90a7d5a3,CUST6258,2025-02-11,Building Blocks,Toys,16.61,1,16.61,West,Debit Card,Not Returned
+09f81d57,CUST4112,2024-10-04,Jeans,Clothing,465.13,5,2325.65,South,Credit Card,Not Returned
+a64932f1,CUST7102,2025-02-12,Doll,Toys,451.51,2,903.02,East,Credit Card,Not Returned
+0e328f72,CUST6415,2025-07-10,T-Shirt,Clothing,332.42,4,1329.68,West,Debit Card,Not Returned
+dc616445,CUST2047,2025-05-20,Vacuum Cleaner,Home & Kitchen,341.38,5,1706.9,North,Net Banking,Returned
+b2531edd,CUST5655,2025-01-05,Tablet,Electronics,295.88,2,591.76,South,Net Banking,Not Returned
+fe058092,CUST6913,2025-03-25,Comics,Books,81.4,5,407.0,South,UPI,Not Returned
+9eed7738,CUST4924,2024-11-07,Biography,Books,15.46,2,30.92,South,UPI,Not Returned
+9bf2ab94,CUST5363,2024-11-01,Textbook,Books,87.15,4,348.6,North,COD,Not Returned
+fbcd3bbd,CUST3488,2024-07-18,Jeans,Clothing,495.65,5,2478.25,North,COD,Returned
+6996b09f,CUST2107,2025-05-31,Puzzle,Toys,404.36,1,404.36,South,Debit Card,Not Returned
+e5303ed1,CUST2247,2025-06-18,Jeans,Clothing,59.69,3,179.07,South,Debit Card,Returned
+f99af1bb,CUST5569,2025-02-16,T-Shirt,Clothing,183.89,5,919.45,East,Credit Card,Not Returned
+6bc6a9cf,CUST6250,2024-07-23,T-Shirt,Clothing,358.52,4,1434.08,North,COD,Not Returned
+c3cf3594,CUST1215,2025-07-03,Jeans,Clothing,339.17,1,339.17,East,Debit Card,Not Returned
+a2b62d87,CUST5924,2025-03-10,Vacuum Cleaner,Home & Kitchen,352.69,1,352.69,South,Debit Card,Not Returned
+28d8c0f1,CUST8357,2024-09-03,Laptop,Electronics,171.75,5,858.75,North,Net Banking,Not Returned
+535f0893,CUST8414,2024-09-07,Comics,Books,476.88,4,1907.52,West,Net Banking,Not Returned
+cda72169,CUST3174,2024-12-15,Doll,Toys,176.49,1,176.49,West,UPI,Returned
+9a08847b,CUST6881,2024-11-11,Headphones,Electronics,278.69,2,557.38,North,Credit Card,Returned
+ca21bcfd,CUST9797,2025-07-04,Jacket,Clothing,426.56,3,1279.68,South,Debit Card,Not Returned
+3ac5e4ce,CUST1559,2025-01-12,Puzzle,Toys,11.15,2,22.3,North,Net Banking,Not Returned
+f91493be,CUST4891,2024-12-01,Desk Lamp,Home & Kitchen,152.05,3,456.15,South,Debit Card,Not Returned
+fc96f1ae,CUST5780,2025-03-25,Dress,Clothing,167.71,2,335.42,East,COD,Not Returned
+ed2c6570,CUST2450,2024-12-05,Puzzle,Toys,420.11,2,840.22,West,Net Banking,Not Returned
+31a86eb7,CUST1423,2024-07-18,Tablet,Electronics,95.25,2,190.5,South,Credit Card,Returned
+1de41966,CUST1274,2025-03-27,Comics,Books,235.57,5,1177.85,South,COD,Not Returned
+33f4e8ae,CUST3420,2025-07-12,Desk Lamp,Home & Kitchen,268.87,4,1075.48,South,UPI,Not Returned
+377605ac,CUST5221,2025-01-22,Cookware Set,Home & Kitchen,256.38,1,256.38,West,Net Banking,Not Returned
+1de42417,CUST8816,2025-03-16,Doll,Toys,466.45,4,1865.8,North,Credit Card,Not Returned
+35049a1e,CUST2849,2025-03-19,Textbook,Books,245.54,5,1227.7,West,Net Banking,Not Returned
+1f401448,CUST5153,2025-05-17,Tablet,Electronics,102.36,2,204.72,South,UPI,Not Returned
+dd27b277,CUST7248,2025-02-12,Novel,Books,447.6,5,2238.0,North,COD,Not Returned
+17a99bae,CUST6464,2025-01-13,Doll,Toys,239.12,1,239.12,South,Net Banking,Not Returned
+3b90a52f,CUST9874,2024-09-14,Building Blocks,Toys,384.84,2,769.68,East,COD,Not Returned
+24a9f18c,CUST6731,2025-05-20,Vacuum Cleaner,Home & Kitchen,357.71,2,715.42,East,Debit Card,Returned
+458ca1bb,CUST3828,2024-12-24,Building Blocks,Toys,315.98,1,315.98,East,UPI,Not Returned
+e5174cf4,CUST9499,2025-05-29,Dress,Clothing,306.82,2,613.64,South,Credit Card,Not Returned
+04edfe03,CUST2788,2024-08-17,Desk Lamp,Home & Kitchen,381.25,4,1525.0,North,COD,Not Returned
+1fe2d39e,CUST7477,2024-10-24,Puzzle,Toys,360.14,3,1080.42,South,COD,Not Returned
+7a3f7069,CUST5054,2024-12-17,Desk Lamp,Home & Kitchen,216.03,2,432.06,West,Credit Card,Not Returned
+1f14d458,CUST5689,2025-02-21,Remote Car,Toys,287.75,5,1438.75,North,COD,Not Returned
+5cea91d8,CUST9619,2025-02-15,Tablet,Electronics,99.54,2,199.08,West,UPI,Not Returned
+507945f7,CUST7898,2025-06-17,Headphones,Electronics,170.12,3,510.36,South,UPI,Not Returned
+af13a576,CUST4331,2024-12-27,Jeans,Clothing,488.99,5,2444.95,North,Debit Card,Not Returned
+e74e4c3a,CUST1613,2025-02-20,Cookware Set,Home & Kitchen,259.56,4,1038.24,East,Net Banking,Not Returned
+d8838c23,CUST2286,2025-04-25,Comics,Books,351.07,2,702.14,East,Debit Card,Not Returned
+d536f571,CUST1783,2024-10-31,Puzzle,Toys,420.58,5,2102.9,East,UPI,Not Returned
+8dbcdc86,CUST7356,2025-03-09,Headphones,Electronics,349.61,3,1048.83,North,Debit Card,Not Returned
+463b88d6,CUST7526,2024-10-17,Laptop,Electronics,224.02,3,672.06,South,Net Banking,Not Returned
+85bdfc09,CUST5139,2025-04-28,Vacuum Cleaner,Home & Kitchen,355.95,5,1779.75,East,Net Banking,Not Returned
+e84927c6,CUST5094,2025-06-11,Tablet,Electronics,80.69,2,161.38,South,UPI,Not Returned
+b1026367,CUST8031,2024-09-14,Novel,Books,336.42,1,336.42,East,UPI,Not Returned
+2100bda8,CUST2074,2025-02-25,Dress,Clothing,376.12,2,752.24,East,Debit Card,Not Returned
+d486b920,CUST3678,2024-08-27,Desk Lamp,Home & Kitchen,498.99,3,1496.97,East,COD,Not Returned
+a255387a,CUST6729,2025-05-06,Tablet,Electronics,286.04,2,572.08,West,COD,Not Returned
+45311f22,CUST9660,2025-05-17,Doll,Toys,41.27,5,206.35,North,COD,Not Returned
+27108997,CUST8622,2024-12-01,Blender,Home & Kitchen,358.11,2,716.22,South,COD,Not Returned
+258f8cfe,CUST3729,2024-07-29,Cookware Set,Home & Kitchen,220.38,2,440.76,West,UPI,Not Returned
+ffbf7f16,CUST5624,2024-11-16,Comics,Books,325.92,1,325.92,West,Debit Card,Not Returned
+6f61b6f4,CUST3782,2024-11-07,Dress,Clothing,170.81,3,512.43,West,Credit Card,Not Returned
+06767e9b,CUST9352,2025-04-01,Remote Car,Toys,263.17,3,789.51,North,Credit Card,Not Returned
+eb0f3376,CUST7875,2025-05-03,Vacuum Cleaner,Home & Kitchen,206.77,1,206.77,North,COD,Not Returned
+0d0a37a9,CUST3171,2025-05-07,Desk Lamp,Home & Kitchen,100.8,1,100.8,South,COD,Not Returned
+22a4aecb,CUST7102,2025-04-02,Doll,Toys,346.32,5,1731.6,West,Credit Card,Not Returned
+01304936,CUST7895,2024-10-04,Jacket,Clothing,433.75,5,2168.75,South,Debit Card,Not Returned
+51f4c9d4,CUST4087,2025-02-06,Biography,Books,166.31,2,332.62,East,Debit Card,Not Returned
+66f83039,CUST4831,2025-02-19,Blender,Home & Kitchen,323.96,3,971.88,East,UPI,Not Returned
+23f03623,CUST8671,2024-11-18,Blender,Home & Kitchen,450.9,1,450.9,East,Net Banking,Returned
+1952bc6c,CUST4373,2024-11-23,Smartphone,Electronics,363.18,2,726.36,West,Credit Card,Not Returned
+76e1451d,CUST3951,2024-11-11,Building Blocks,Toys,283.3,1,283.3,East,UPI,Returned
+e40e1ad5,CUST8709,2025-04-27,Tablet,Electronics,153.32,4,613.28,West,Credit Card,Not Returned
+b1523c3c,CUST8957,2024-09-04,Building Blocks,Toys,469.75,1,469.75,North,UPI,Not Returned
+2253401c,CUST5480,2025-07-10,Textbook,Books,214.04,3,642.12,North,Net Banking,Not Returned
+de475f85,CUST9252,2024-09-02,Jeans,Clothing,424.17,2,848.34,South,Debit Card,Not Returned
+568ff605,CUST1041,2025-04-09,Puzzle,Toys,40.11,3,120.33,South,UPI,Not Returned
+be12e96e,CUST5217,2025-05-13,Doll,Toys,448.42,2,896.84,East,COD,Returned
+bd281888,CUST7788,2025-04-14,Headphones,Electronics,226.87,2,453.74,North,Net Banking,Not Returned
+ebb549e7,CUST5650,2024-08-07,Cookware Set,Home & Kitchen,135.65,2,271.3,East,UPI,Not Returned
+3380dd40,CUST8337,2025-02-06,T-Shirt,Clothing,263.6,2,527.2,West,COD,Not Returned
+54432978,CUST9021,2024-10-03,Dress,Clothing,113.49,4,453.96,East,COD,Not Returned
+f6bb3b91,CUST3855,2025-04-25,Desk Lamp,Home & Kitchen,218.42,4,873.68,South,UPI,Not Returned
+53c5311f,CUST6558,2024-10-25,Smartphone,Electronics,239.15,4,956.6,North,UPI,Not Returned
+ab32de5f,CUST4950,2024-09-04,Remote Car,Toys,463.07,4,1852.28,East,Debit Card,Returned
+927d689e,CUST9766,2024-10-23,Jeans,Clothing,98.84,1,98.84,North,UPI,Not Returned
+41b5f279,CUST5230,2025-03-08,Biography,Books,121.7,4,486.8,East,UPI,Not Returned
+ec840605,CUST2190,2024-10-21,Comics,Books,239.47,3,718.41,East,COD,Not Returned
+b343cbf7,CUST2062,2024-08-23,T-Shirt,Clothing,162.78,1,162.78,South,Net Banking,Not Returned
+b4b7c166,CUST4656,2024-12-17,Building Blocks,Toys,74.05,1,74.05,East,COD,Not Returned
+b8b5a522,CUST3118,2024-07-20,Smartphone,Electronics,194.98,5,974.9,North,Debit Card,Not Returned
+f9e40b34,CUST6869,2025-06-26,Comics,Books,262.06,5,1310.3,West,Credit Card,Not Returned
+3c0b70af,CUST1094,2024-10-31,Puzzle,Toys,108.52,3,325.56,North,Debit Card,Not Returned
+81a07f70,CUST3520,2025-06-05,Dress,Clothing,210.49,5,1052.45,East,COD,Not Returned
+2700b1a4,CUST4839,2024-12-03,Comics,Books,294.75,1,294.75,South,Credit Card,Not Returned
+d15d1995,CUST3945,2024-08-04,Desk Lamp,Home & Kitchen,332.17,3,996.51,East,COD,Not Returned
+ab6444f7,CUST1953,2024-09-10,Smartphone,Electronics,425.34,3,1276.02,East,Debit Card,Not Returned
+96c03a8a,CUST8744,2025-03-17,Novel,Books,82.48,4,329.92,East,COD,Not Returned
+8c65845e,CUST7838,2025-02-24,Blender,Home & Kitchen,425.27,4,1701.08,South,UPI,Not Returned
+ed90fd6d,CUST2348,2024-12-26,Headphones,Electronics,458.87,2,917.74,East,UPI,Not Returned
+a961101f,CUST8293,2025-01-11,Jacket,Clothing,425.02,2,850.04,West,Credit Card,Not Returned
+cf889858,CUST1958,2025-06-13,Biography,Books,163.25,4,653.0,East,UPI,Not Returned
+11e6f3c4,CUST2170,2025-07-10,Novel,Books,99.56,3,298.68,East,Net Banking,Not Returned
+c60ed332,CUST7391,2025-01-02,Desk Lamp,Home & Kitchen,365.43,2,730.86,South,Credit Card,Not Returned
+271de136,CUST2421,2025-06-04,Dress,Clothing,364.86,2,729.72,South,COD,Not Returned
+d04085b2,CUST6873,2025-06-06,Jacket,Clothing,322.67,3,968.01,West,UPI,Not Returned
+84086880,CUST8970,2024-12-17,Biography,Books,424.93,5,2124.65,South,COD,Not Returned
+e956748e,CUST1617,2025-03-29,Jacket,Clothing,387.9,3,1163.7,East,UPI,Not Returned
+2e929f88,CUST5290,2024-10-22,Tablet,Electronics,382.57,4,1530.28,East,Net Banking,Not Returned
+750b3726,CUST2784,2024-11-17,Laptop,Electronics,347.43,4,1389.72,South,Debit Card,Not Returned
+b61e164d,CUST1830,2024-12-18,Vacuum Cleaner,Home & Kitchen,266.21,4,1064.84,East,Credit Card,Not Returned
+e3aa091d,CUST5399,2024-09-20,Tablet,Electronics,321.54,2,643.08,East,COD,Not Returned
+e4e6712e,CUST7679,2025-07-12,Novel,Books,466.9,2,933.8,West,Net Banking,Not Returned
+a525fdd8,CUST7910,2025-06-29,Blender,Home & Kitchen,204.16,3,612.48,East,Debit Card,Not Returned
+845ec96f,CUST8237,2025-06-12,Smartphone,Electronics,400.34,3,1201.02,West,COD,Not Returned
+ef0f87fb,CUST9944,2025-01-12,Puzzle,Toys,71.64,2,143.28,West,Credit Card,Not Returned
+0d8d1bdc,CUST4299,2025-02-18,Jacket,Clothing,457.56,1,457.56,South,COD,Not Returned
+47bb3f3f,CUST7495,2025-05-15,Tablet,Electronics,150.49,2,300.98,West,Net Banking,Not Returned
+1ad1678d,CUST6799,2024-12-29,Comics,Books,379.73,5,1898.65,East,Credit Card,Not Returned
+7c11402e,CUST2964,2025-02-18,Doll,Toys,41.82,3,125.46,West,Debit Card,Not Returned
+d86d0eaa,CUST9787,2024-12-07,Remote Car,Toys,79.56,2,159.12,East,Credit Card,Not Returned
+fde98d14,CUST2652,2025-06-02,Dress,Clothing,404.26,3,1212.78,East,Debit Card,Not Returned
+f9bb63fe,CUST7941,2025-01-09,Jeans,Clothing,42.02,4,168.08,South,Debit Card,Not Returned
+5d42e973,CUST6393,2024-07-25,Tablet,Electronics,50.86,5,254.3,North,UPI,Not Returned
+7b1637c6,CUST3906,2025-04-15,Novel,Books,434.09,4,1736.36,North,Debit Card,Not Returned
+07013937,CUST1386,2025-02-24,Headphones,Electronics,448.27,5,2241.35,East,Credit Card,Not Returned
+9b9cc9fc,CUST7374,2025-03-30,Tablet,Electronics,142.92,1,142.92,West,Net Banking,Not Returned
+079525be,CUST1847,2024-11-18,Textbook,Books,429.43,2,858.86,West,Credit Card,Not Returned
+dab79334,CUST5355,2024-09-27,Remote Car,Toys,422.66,2,845.32,East,COD,Not Returned
+42d1007b,CUST3327,2025-03-14,Doll,Toys,16.65,5,83.25,North,Credit Card,Not Returned
+5aabc634,CUST5552,2025-03-08,Jacket,Clothing,105.76,5,528.8,West,Debit Card,Not Returned
+08ece91e,CUST1688,2025-04-23,Desk Lamp,Home & Kitchen,306.91,5,1534.55,East,Net Banking,Not Returned
+7c0f1871,CUST2290,2024-11-30,Vacuum Cleaner,Home & Kitchen,442.45,4,1769.8,East,Credit Card,Not Returned
+61c85d19,CUST9489,2024-12-05,Comics,Books,447.3,1,447.3,West,Debit Card,Not Returned
+65dec2c0,CUST3739,2025-05-14,Blender,Home & Kitchen,423.82,4,1695.28,North,COD,Not Returned
+36a6437c,CUST6058,2025-03-23,Comics,Books,98.54,3,295.62,East,Net Banking,Not Returned
+16790d1b,CUST6891,2024-12-01,Blender,Home & Kitchen,399.69,5,1998.45,West,UPI,Not Returned
+5e79abf2,CUST3513,2025-04-06,Comics,Books,68.69,1,68.69,West,Credit Card,Not Returned
+f95d5dd2,CUST8019,2024-12-13,Puzzle,Toys,390.51,4,1562.04,South,UPI,Not Returned
+df91d3fa,CUST3873,2024-12-15,Novel,Books,186.54,2,373.08,East,UPI,Not Returned
+3d0491f4,CUST8150,2025-05-09,Puzzle,Toys,129.1,4,516.4,South,Credit Card,Returned
+16c1454b,CUST3638,2025-07-01,Blender,Home & Kitchen,495.03,3,1485.09,East,COD,Not Returned
+4531e416,CUST6809,2024-10-05,T-Shirt,Clothing,395.46,1,395.46,South,COD,Not Returned
+ca19b447,CUST3215,2025-03-10,Dress,Clothing,354.61,2,709.22,North,Net Banking,Not Returned
+5bfba384,CUST6319,2025-02-12,Headphones,Electronics,154.81,3,464.43,South,Credit Card,Not Returned
+9404cd16,CUST6058,2025-01-24,Laptop,Electronics,132.54,3,397.62,South,Net Banking,Returned
+4a3dd0c4,CUST8222,2024-08-04,Smartphone,Electronics,36.04,4,144.16,South,COD,Not Returned
+c090b035,CUST5441,2025-04-21,Laptop,Electronics,189.05,2,378.1,West,UPI,Not Returned
+0a274d6a,CUST3060,2025-06-10,Blender,Home & Kitchen,466.38,4,1865.52,West,Debit Card,Not Returned
+ad27806f,CUST4430,2024-11-28,Jeans,Clothing,81.86,3,245.58,South,UPI,Not Returned
+f0cd8491,CUST9298,2025-04-19,Novel,Books,275.9,4,1103.6,South,Credit Card,Not Returned
+d25add05,CUST6500,2024-07-21,Jacket,Clothing,306.28,1,306.28,East,Credit Card,Not Returned
+9c375e10,CUST6509,2024-12-22,Jacket,Clothing,388.01,4,1552.04,West,Net Banking,Not Returned
+5a044ff1,CUST4375,2024-08-19,Blender,Home & Kitchen,295.65,4,1182.6,South,Credit Card,Not Returned
+7b76927e,CUST5772,2025-04-25,Doll,Toys,130.4,3,391.2,West,Debit Card,Returned
+5f71f9b9,CUST6103,2025-04-03,Headphones,Electronics,364.55,2,729.1,West,UPI,Not Returned
+2a9a0a7f,CUST2758,2024-10-05,Biography,Books,208.03,3,624.09,West,UPI,Not Returned
+baae2943,CUST2984,2024-11-02,Tablet,Electronics,266.99,2,533.98,East,Debit Card,Returned
+99287b45,CUST7558,2024-09-08,Comics,Books,118.23,1,118.23,West,UPI,Not Returned
+de312e3a,CUST1695,2024-08-10,Smartphone,Electronics,148.12,1,148.12,East,COD,Returned
+c74f4d53,CUST4402,2025-04-13,Building Blocks,Toys,288.5,1,288.5,West,Credit Card,Not Returned
+2dca0b44,CUST7795,2024-07-26,Jacket,Clothing,112.71,2,225.42,East,Debit Card,Not Returned
+1b21110f,CUST1379,2025-01-10,Desk Lamp,Home & Kitchen,206.09,1,206.09,South,Net Banking,Not Returned
+7a5ad817,CUST9556,2025-03-22,Comics,Books,278.08,3,834.24,East,Debit Card,Not Returned
+e1e95225,CUST2517,2025-06-20,Blender,Home & Kitchen,432.23,1,432.23,South,Net Banking,Not Returned
+23c1a653,CUST2339,2024-10-24,Headphones,Electronics,177.5,2,355.0,West,UPI,Not Returned
+0ce9f4f1,CUST6465,2024-07-29,Puzzle,Toys,231.61,4,926.44,West,COD,Not Returned
+8c8ed76c,CUST5805,2025-03-22,Jacket,Clothing,397.59,3,1192.77,North,COD,Not Returned
+c4e8c14d,CUST2750,2025-06-21,Jacket,Clothing,484.64,2,969.28,East,Net Banking,Not Returned
+b25728b8,CUST9863,2025-06-02,Blender,Home & Kitchen,425.67,4,1702.68,West,Credit Card,Not Returned
+b3bcba29,CUST1454,2024-10-24,Blender,Home & Kitchen,186.66,5,933.3,North,UPI,Not Returned
+1868c685,CUST2534,2024-07-24,Comics,Books,232.59,2,465.18,East,COD,Not Returned
+04683dc5,CUST8204,2024-11-28,Smartphone,Electronics,113.14,2,226.28,North,UPI,Not Returned
+af5ade65,CUST1311,2024-07-26,Doll,Toys,336.95,5,1684.75,South,COD,Not Returned
+0d803b12,CUST5876,2024-11-17,Comics,Books,38.38,1,38.38,East,Net Banking,Not Returned
+a21e81ee,CUST4626,2025-04-03,Comics,Books,22.73,4,90.92,East,UPI,Not Returned
+166fbeef,CUST9622,2025-06-26,Comics,Books,50.99,3,152.97,East,Net Banking,Returned
+642cd447,CUST1808,2024-08-17,Novel,Books,231.1,2,462.2,North,Net Banking,Not Returned
+f5d08885,CUST6343,2025-07-02,Headphones,Electronics,192.14,1,192.14,East,Credit Card,Not Returned
+aed36feb,CUST9399,2025-05-25,Jacket,Clothing,227.13,5,1135.65,North,UPI,Not Returned
+16c814f4,CUST8237,2024-07-18,Remote Car,Toys,488.81,4,1955.24,South,Debit Card,Not Returned
+98402a25,CUST8578,2024-08-31,Blender,Home & Kitchen,329.58,5,1647.9,South,Net Banking,Not Returned
+2772669a,CUST6656,2025-01-16,Jeans,Clothing,62.37,1,62.37,West,Debit Card,Not Returned
+16e2cb6d,CUST7752,2024-08-06,Cookware Set,Home & Kitchen,23.56,3,70.68,South,Net Banking,Not Returned
+82429391,CUST7916,2024-11-06,Vacuum Cleaner,Home & Kitchen,103.65,3,310.95,East,Net Banking,Returned
+cdea96e7,CUST9638,2024-12-19,Puzzle,Toys,45.41,1,45.41,East,UPI,Returned
+8e120615,CUST5278,2025-06-07,Novel,Books,303.25,3,909.75,South,Net Banking,Not Returned
+9dfc8535,CUST6003,2024-10-12,Novel,Books,315.95,3,947.85,West,COD,Not Returned
+2890c347,CUST8354,2025-05-01,Jacket,Clothing,430.42,1,430.42,East,COD,Not Returned
+dfde6f42,CUST5255,2024-08-07,Textbook,Books,488.5,2,977.0,West,COD,Not Returned
+7c0e177a,CUST4468,2025-01-02,Cookware Set,Home & Kitchen,429.58,1,429.58,West,Debit Card,Not Returned
+59aa3cc9,CUST5041,2024-12-31,Laptop,Electronics,300.86,5,1504.3,South,Debit Card,Not Returned
+55aac879,CUST1022,2025-05-15,Laptop,Electronics,136.79,4,547.16,South,Debit Card,Not Returned
+5f2a1885,CUST6667,2024-12-13,Textbook,Books,136.98,3,410.94,East,Net Banking,Not Returned
+8da21a6c,CUST2935,2025-03-29,Desk Lamp,Home & Kitchen,143.1,4,572.4,West,UPI,Not Returned
+763a2638,CUST5322,2025-06-06,Desk Lamp,Home & Kitchen,476.96,1,476.96,West,COD,Not Returned
+079cd5fa,CUST9500,2025-05-28,Headphones,Electronics,383.46,5,1917.3,East,Net Banking,Not Returned
+5fdfe445,CUST3991,2025-07-12,Desk Lamp,Home & Kitchen,368.93,5,1844.65,West,Credit Card,Not Returned
+f5986268,CUST9224,2025-02-27,Blender,Home & Kitchen,383.33,2,766.66,North,Debit Card,Not Returned
+d38f22ac,CUST7669,2025-02-04,Dress,Clothing,353.7,1,353.7,West,UPI,Not Returned
+b7967fe9,CUST1349,2025-01-10,Doll,Toys,251.98,3,755.94,East,Debit Card,Not Returned
+ff6d4c08,CUST8767,2024-09-16,Puzzle,Toys,496.08,2,992.16,North,COD,Not Returned
+3b7fd5fa,CUST9602,2024-09-10,Headphones,Electronics,117.92,2,235.84,West,Debit Card,Not Returned
+3819b693,CUST3095,2024-11-11,Vacuum Cleaner,Home & Kitchen,203.76,4,815.04,North,Debit Card,Not Returned
+a598571b,CUST2536,2024-09-01,Jeans,Clothing,385.2,5,1926.0,South,COD,Not Returned
+f2a36643,CUST1973,2024-07-18,Smartphone,Electronics,306.02,5,1530.1,East,Credit Card,Not Returned
+aea910e1,CUST1201,2024-09-20,Vacuum Cleaner,Home & Kitchen,298.92,5,1494.6,East,Net Banking,Not Returned
+bd1816f8,CUST3211,2024-09-05,Laptop,Electronics,319.73,2,639.46,East,UPI,Not Returned
+12055761,CUST8053,2024-12-31,T-Shirt,Clothing,238.01,1,238.01,West,Debit Card,Not Returned
+c5684658,CUST4530,2025-01-08,Jacket,Clothing,468.43,3,1405.29,West,Debit Card,Not Returned
+054e54f5,CUST2337,2025-04-15,Building Blocks,Toys,56.35,1,56.35,East,UPI,Not Returned
+d02254ee,CUST9285,2025-01-13,Laptop,Electronics,110.4,4,441.6,West,Credit Card,Returned
+c1895494,CUST6845,2025-03-03,Vacuum Cleaner,Home & Kitchen,359.89,5,1799.45,North,Net Banking,Not Returned
+5b84ba76,CUST6497,2024-08-31,Remote Car,Toys,129.7,4,518.8,North,Net Banking,Not Returned
+a35f2fa3,CUST2475,2025-02-20,Jacket,Clothing,43.12,1,43.12,South,Debit Card,Not Returned
+d999b62f,CUST4732,2024-10-22,Tablet,Electronics,398.87,5,1994.35,South,Net Banking,Not Returned
+0a9b7013,CUST9749,2025-02-10,Cookware Set,Home & Kitchen,464.93,1,464.93,West,Credit Card,Not Returned
+4e8fbc9b,CUST7990,2025-05-26,Headphones,Electronics,144.47,1,144.47,South,Debit Card,Not Returned
+c7563881,CUST7160,2025-03-10,Vacuum Cleaner,Home & Kitchen,427.59,2,855.18,North,Net Banking,Not Returned
+c5703a7b,CUST3803,2024-11-08,Headphones,Electronics,58.19,1,58.19,South,Credit Card,Not Returned
+8949acfb,CUST3391,2025-04-27,T-Shirt,Clothing,447.94,4,1791.76,South,UPI,Not Returned
+f447f987,CUST4781,2024-09-09,Novel,Books,251.42,3,754.26,West,Debit Card,Not Returned
+4de31b04,CUST7280,2024-10-06,Smartphone,Electronics,380.37,4,1521.48,East,Credit Card,Not Returned
+0cb0d8f2,CUST2487,2025-03-14,Cookware Set,Home & Kitchen,215.96,2,431.92,East,Credit Card,Not Returned
+ff19b4ed,CUST8870,2024-08-27,Biography,Books,318.15,5,1590.75,East,Debit Card,Not Returned
+f843cea8,CUST1646,2024-11-28,Doll,Toys,263.38,2,526.76,East,Net Banking,Not Returned
+9241ceda,CUST2787,2024-08-12,Tablet,Electronics,59.86,1,59.86,South,Credit Card,Returned
+84c890a9,CUST9625,2024-09-30,Dress,Clothing,222.97,3,668.91,East,COD,Not Returned
+1a4dea33,CUST8779,2024-12-03,Cookware Set,Home & Kitchen,347.61,4,1390.44,East,UPI,Not Returned
+e991bc8c,CUST9066,2025-03-30,T-Shirt,Clothing,114.6,3,343.8,West,Net Banking,Not Returned
+b44a5851,CUST3311,2024-10-05,Jeans,Clothing,206.54,1,206.54,East,Credit Card,Not Returned
+a7dc1416,CUST2755,2024-09-29,Jeans,Clothing,16.65,4,66.6,East,Net Banking,Not Returned
+aebf9436,CUST3446,2025-02-09,Dress,Clothing,143.39,3,430.17,West,UPI,Not Returned
+6c8d53b6,CUST9393,2025-05-13,Smartphone,Electronics,370.12,5,1850.6,West,Credit Card,Not Returned
+7d1b4768,CUST4864,2024-11-25,T-Shirt,Clothing,493.23,3,1479.69,South,Net Banking,Not Returned
+4a39a371,CUST6336,2024-12-03,Tablet,Electronics,198.93,3,596.79,East,Credit Card,Not Returned
+a6cab568,CUST6862,2024-09-14,Biography,Books,250.04,1,250.04,East,UPI,Not Returned
+ebdb724a,CUST2239,2024-08-12,Laptop,Electronics,55.51,3,166.53,East,COD,Not Returned
+7f2bce0a,CUST7787,2025-03-01,Puzzle,Toys,123.21,1,123.21,North,Credit Card,Not Returned
+4948ebd9,CUST9650,2024-10-09,Tablet,Electronics,404.35,2,808.7,South,Debit Card,Not Returned
+9e9b5550,CUST6758,2025-04-11,Tablet,Electronics,133.56,2,267.12,South,Credit Card,Not Returned
+2d2c267b,CUST9811,2024-07-20,T-Shirt,Clothing,492.4,5,2462.0,West,Credit Card,Not Returned
+6e0ca8bb,CUST7292,2025-01-27,Jacket,Clothing,145.38,5,726.9,West,Net Banking,Not Returned
+ee170df9,CUST8427,2025-07-02,Headphones,Electronics,354.04,2,708.08,West,Credit Card,Not Returned
+f2ae2c77,CUST9737,2025-01-03,Smartphone,Electronics,247.41,5,1237.05,South,Debit Card,Not Returned
+9ce096fb,CUST7636,2025-05-18,Puzzle,Toys,486.07,5,2430.35,East,Debit Card,Returned
+647e0f4a,CUST8028,2025-05-23,T-Shirt,Clothing,165.31,4,661.24,East,Net Banking,Not Returned
+1db4e272,CUST9965,2024-11-14,Doll,Toys,327.65,4,1310.6,North,Net Banking,Not Returned
+13861d56,CUST5528,2025-07-07,Textbook,Books,245.59,5,1227.95,West,Debit Card,Not Returned
+dba82528,CUST6208,2025-06-28,Jacket,Clothing,265.86,5,1329.3,North,Net Banking,Not Returned
+df4955c0,CUST6057,2024-09-13,Dress,Clothing,431.17,4,1724.68,South,UPI,Not Returned
+61b239f4,CUST4323,2024-12-06,Novel,Books,159.05,5,795.25,North,Credit Card,Not Returned
+3c069fb6,CUST6417,2025-03-27,Headphones,Electronics,196.09,5,980.45,East,Debit Card,Not Returned
+86b44a20,CUST6503,2024-09-06,Jacket,Clothing,281.85,1,281.85,North,Net Banking,Not Returned
+f148d291,CUST8804,2025-05-25,Textbook,Books,125.26,1,125.26,North,COD,Not Returned
+24c8d523,CUST9495,2025-01-29,Remote Car,Toys,323.54,5,1617.7,West,Net Banking,Not Returned
+6ada2f38,CUST4989,2025-01-20,Comics,Books,43.94,4,175.76,North,Credit Card,Not Returned
+9a33fdaa,CUST6297,2025-06-06,Jacket,Clothing,398.61,2,797.22,North,Credit Card,Not Returned
+0dac866a,CUST2579,2025-04-01,Headphones,Electronics,24.25,2,48.5,West,Credit Card,Not Returned
+0bd56890,CUST3574,2025-05-03,Vacuum Cleaner,Home & Kitchen,461.72,4,1846.88,East,Net Banking,Not Returned
+cfebfe2d,CUST3129,2025-07-12,Dress,Clothing,383.74,3,1151.22,West,UPI,Not Returned
+410ff975,CUST2108,2025-04-09,Desk Lamp,Home & Kitchen,441.77,2,883.54,West,COD,Not Returned
+65799fc8,CUST2043,2025-06-01,Desk Lamp,Home & Kitchen,227.25,4,909.0,West,Debit Card,Not Returned
+5006df3d,CUST4996,2025-03-25,Puzzle,Toys,470.5,1,470.5,North,UPI,Not Returned
+9322fa2a,CUST7622,2024-12-14,Tablet,Electronics,68.06,1,68.06,East,Net Banking,Not Returned
+9300dad8,CUST9281,2024-10-21,Puzzle,Toys,169.52,4,678.08,East,Credit Card,Not Returned
+50859904,CUST1152,2025-07-02,Vacuum Cleaner,Home & Kitchen,249.17,4,996.68,South,UPI,Not Returned
+6e7d79ae,CUST5695,2025-01-14,Building Blocks,Toys,418.71,2,837.42,East,Net Banking,Not Returned
+ae447839,CUST7768,2025-05-13,Desk Lamp,Home & Kitchen,488.82,2,977.64,South,Debit Card,Not Returned
+a2efd195,CUST7178,2025-07-14,Vacuum Cleaner,Home & Kitchen,440.59,5,2202.95,South,UPI,Not Returned
+3f8be06d,CUST9698,2025-06-11,T-Shirt,Clothing,143.31,4,573.24,South,UPI,Not Returned
+f082914e,CUST4128,2024-12-14,Tablet,Electronics,383.96,3,1151.88,East,UPI,Not Returned
+301ed369,CUST7603,2024-07-26,Vacuum Cleaner,Home & Kitchen,306.36,4,1225.44,North,COD,Not Returned
+bfdf46cd,CUST1498,2025-01-04,Vacuum Cleaner,Home & Kitchen,170.41,4,681.64,South,COD,Not Returned
+8ecd4dcf,CUST2376,2025-04-14,Cookware Set,Home & Kitchen,429.93,1,429.93,South,Debit Card,Not Returned
+9fce034e,CUST9718,2024-11-17,Vacuum Cleaner,Home & Kitchen,34.02,1,34.02,North,Net Banking,Not Returned
